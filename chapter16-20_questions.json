@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "Question": "Sino ang nag-utos kay Quiroga na ilagay ang mga armas sa kanyang tindahan?",
+      "Answers": ["Don Custodio", "Simoun", "Padre Salvi", "Mr. Leeds"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang kapalit ng pagpapayag ni Quiroga sa plano ni Simoun?",
+      "Answers": ["Babayaran ang utang niya", "Bibigyan siya ng titulo", "Bibigyan siya ng bagong tindahan", "Palalayain ang mga utang niya"],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Anong plano ang pinag-usapan sa kabilang bahagi ng bahay ni Quiroga?",
+      "Answers": ["Magpadala ng komisyon sa India", "Magtatag ng akademya", "Mag-angkat ng armas", "Magsagawa ng rebelyon"],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang usap-usapan sa umpukan ng mga prayle?",
+      "Answers": ["Pagtaas ng buwis", "“Ulong nagsasalita” sa perya", "Planong pagpatay kay Simoun", "Pagbaba ng Kapitan Heneral"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Sino ang Amerikano na nagtatanghal ng palabas sa Quiapo?",
+      "Answers": ["Simoun", "Mr. Leeds", "Ben-Zayb", "Quiroga"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang naging aliw ni Padre Camorra habang naglalakad sa perya?",
+      "Answers": ["Mga pagkain", "Mga dalagang dumaraan", "Mga laro sa perya", "Mga palabas"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Sino ang pinaghinalaan nina Padre Salvi at Ben-Zayb na may lihim kay Mr. Leeds?",
+      "Answers": ["Quiroga", "Simoun", "Don Custodio", "Basilio"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang laman ng kahang natagpuan ni Mr. Leeds sa piramide?",
+      "Answers": ["Ginto", "Salita ng buhay at kamatayan", "Mga armas", "Matandang aklat"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Sino ang bumangon mula sa abo sa palabas ni Mr. Leeds?",
+      "Answers": ["Kabesang Tales", "Imuthis", "Simoun", "Mr. Leeds mismo"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang naging reaksiyon ng mga nanood sa palabas ng ulo?",
+      "Answers": ["Tumawa", "Natakot at nagulat", "Nagalit kay Mr. Leeds", "Umalis agad"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang plano ni Placido matapos magalit sa unibersidad?",
+      "Answers": ["Sumali sa mga rebolusyonaryo", "Tumakas patungong Hong Kong", "Magtayo ng sariling paaralan", "Magbalik sa Tanauan"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Sino ang kinausap ni Placido tungkol sa kanyang pag-alis?",
+      "Answers": ["Macaraig", "Kabesang Andang", "Basilio", "Don Custodio"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Sino ang pinapahanap ni Simoun para sa kanilang plano?",
+      "Answers": ["Mr. Leeds", "Kabesang Tales", "Quiroga", "Juanito Pelaez"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang inutusan ni Simoun sa maestro na gawin?",
+      "Answers": ["Mag-imbak ng pagkain", "Dalhin ang mga pulbura at bomba", "Magturo ng sapatero", "Hanapin si Maria Clara"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang desisyon ni Don Custodio tungkol sa Akademya ng Wikang Kastila?",
+      "Answers": ["Itutuloy agad", "Siya ang magpapasya kung itutuloy", "Ibabasura na lang", "Ipapaubaya sa mga prayle"],
+      "CorrectAnswers": 1
+    }
+  ]
+}
