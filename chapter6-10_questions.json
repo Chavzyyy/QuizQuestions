@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "Question": "Ano ang gumising kay Basilio para sa misa de gallo?",
+      "Answers": ["Tilaok ng manok", "Kampana", "Sigaw ng tao", "Alon ng dagat"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Saan nagtungo si Basilio pagkatapos gumising?",
+      "Answers": ["Simbahan", "Paaralan", "Gubat", "Palengke"],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Sino ang kumupkop kay Basilio sa Maynila?",
+      "Answers": ["Simoun", "Kapitan Tiago", "Hermana Penchang", "Tandang Selo"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Saang paaralan unang nag-aral si Basilio?",
+      "Answers": ["Ateneo Municipal", "San Juan de Letran", "Colegio de San Jose", "San Diego Academy"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang marka ni Basilio sa pagtatapos niya sa San Juan de Letran?",
+      "Answers": ["Sapat", "Katamtaman", "Sobresaliente", "Mababa"],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Sino ang nakita ni Basilio na naghuhukay sa gubat?",
+      "Answers": ["Kapitan Tiago", "Hermana Penchang", "Simoun", "Tandang Selo"],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang hawak ni Simoun nang lumapit si Basilio?",
+      "Answers": ["Itak", "Rebolber", "Krus", "Rosaryo"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang plano ni Simoun laban sa pamahalaan?",
+      "Answers": ["Mangibang bansa", "Manahimik", "Mag-ipon ng yaman at maghimagsik", "Magsulat ng aklat"],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang paniniwala ni Simoun tungkol sa paggamit ng wikang Kastila?",
+      "Answers": ["Magkakaroon ng pagkakaisa", "Mas magiging alipin ang mga Pilipino", "Lulutang ang kaalaman", "Lalaki ang kita"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang sinabi ni Juli sa kanyang ingkong bago umalis?",
+      "Answers": ["Pupunta siya sa Maynila", "Papasok siya sa kolehiyo", "Magtatrabaho siya sa palengke", "Mag-aabroad siya"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang nangyari kay Tandang Selo matapos umalis si Juli?",
+      "Answers": ["Namatay", "Naging pipi", "Nagsimula ng negosyo", "Naging guro"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang ipinabasa ni Hermana Penchang kay Juli?",
+      "Answers": ["Bibliya", "Tandang Basio Macunat", "Noli Me Tangere", "Florante at Laura"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Bakit nakalaya si Kabesang Tales?",
+      "Answers": ["Dahil binayaran ng kuwalta ni Juli", "Dahil siya'y pinatawad", "Dahil tumakas siya", "Dahil nanalo sa kaso"],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang ipinagbibili ni Simoun sa mga taga-San Diego at Tiyani?",
+      "Answers": ["Damit", "Alahas", "Baril", "Pagkain"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang nangyari kay Kabesang Tales matapos makuha ang baril ni Simoun?",
+      "Answers": ["Sumama siya sa mga tulisan", "Tumakas papuntang Maynila", "Naging prayle", "Umuwi sa bahay"],
+      "CorrectAnswers": 0
+    }
+  ]
+}
