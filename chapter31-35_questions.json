@@ -1,1 +1,78 @@
-
+{
+  "questions": [
+    {
+      "Question": "Sino ang kasamang naglalaro ng tresilyo ng Kapitan Heneral?",
+      "Answers": ["Padre Damaso, Padre Salvi, Padre Florentino", "Padre Sibyla, Padre Irene, Padre Fernandez, Simoun", "Padre Camorra, Padre Irene, Simoun", "Padre Valerio, Padre Fernandez, Simoun"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang itinaya nina Padre Sibyla at Padre Irene sa laro?",
+      "Answers": ["Salapi", "Kabaitan, panalangin, at pagkakawanggawa", "Pagkain", "Lupa"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ayon kay Simoun, ano ang layunin niya sa pagpapalaro sa Kapitan Heneral?",
+      "Answers": ["Para sa libangan", "Upang tulungan ang mahihirap", "Upang lipulin ang may masasamang budhi", "Para ipasa ang petisyon ng kabataan"],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Sino ang inirekomenda ng Mataas na Kawani na ilista dahil sa kahina-hinalang kilos?",
+      "Answers": ["Macaraig", "Juanito Pelaez", "Isagani", "Basilio"],
+      "CorrectAnswers": 3
+    },
+    {
+      "Question": "Ano ang naging desisyon ng Kapitan Heneral tungkol sa matanda (Inkong Tales)?",
+      "Answers": ["Ipatapon siya", "Palayain siya", "Ikulong ng habambuhay", "Pahirapan siya"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Saan naglalakad si Placido Penitente habang masama ang loob?",
+      "Answers": ["Intramuros", "Escolta", "Quiapo", "Malacañang"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang tawag ng mga taga-Tanauan kay Placido?",
+      "Answers": ["Pilibustero", "Alagad", "Makabayan", "Taksil"],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang reaksyon ni Placido sa paanyaya ng kaklase na pumirma sa petisyon?",
+      "Answers": ["Pumirma agad", "Tumangging pumirma", "Tumakbo palayo", "Nagalit"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Anong pangalan ng dalagang tinutukoy ni Juanito na iniibig ni Basilio?",
+      "Answers": ["Paulita Gomez", "Juli", "Donya Victorina", "Tandang Sela"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Sino ang nakasabay ni Placido sa tulay ng Espanya?",
+      "Answers": ["Isagani", "Basilio", "Juanito Pelaez", "Macaraig"],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang ginawa ni Juanito nang hindi niya alam ang sagot sa klase?",
+      "Answers": ["Tumakbo palabas", "Sinenyasan si Placido", "Nagkunwaring may sakit", "Umiyak"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang tawag ni Padre Millon kay Placido?",
+      "Answers": ["Placidong Matapang", "Placidong Antukin", "Placidong Bulong", "Placidong Palaban"],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang naging reaksyon ni Placido matapos alipustain ni Padre Millon?",
+      "Answers": ["Umiyak", "Tumayo at lumabas nang walang paalam", "Humingi ng tawad", "Nanlumo"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Sino ang estudyanteng pinuri sa pag-uusap sa tahanan ni Macaraig?",
+      "Answers": ["Placido Penitente", "Isagani", "Sandoval", "Juanito Pelaez"],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang sinabi ni Ginoong Pasta na dapat gawin ni Isagani?",
+      "Answers": ["Ituloy ang petisyon", "Magrebelde", "Magpakadalubhasa at huwag makisangkot sa suliranin", "Mangampanya sa mga prayle"],
+      "CorrectAnswers": 2
+    }
+  ]
