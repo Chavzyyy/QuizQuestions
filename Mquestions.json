@@ -1,84 +1,199 @@
 {
   "questions": [
     {
-      "answer": "Balatkayo",
-      "question": "Pagtatago ng tunay na damdamin; pagpapanggap."
+      "question": "Kahangalan o kakulangan sa karunungan; madalas tumutukoy sa isang bagay o taong walang saysay o hindi marunong.",
+      "answer": "Katunggakan",
+      "trivia": "Minsan ginagamit sa satirikong paraan upang ilarawan ang mga lider na walang maayos na pamamalakad."
     },
     {
-      "answer": "Kawikaan",
-      "question": "Salawikain o kasabihan; wise saying."
+      "question": "Ilog, sapa, o mababang bahagi ng lupain malapit sa tubig.",
+      "answer": "Wawa",
+      "trivia": "Ang salitang wawa ay ginagamit din bilang pangalan ng lugar, gaya ng Wawa Dam sa Rizal, na mahalaga sa suplay ng tubig sa Metro Manila."
     },
     {
-      "answer": "Pagsiphayo",
-      "question": "Malungkot o masamang damdamin; deep sadness."
+      "question": "Tawag ng mga Kastila sa mga katutubong Pilipino; kadalasang may mababang pagtingin at ginagamit bilang mapanirang katawagan noong panahon ng kolonisasyon.",
+      "answer": "Indio",
+      "trivia": "Isa sa mga termino ng kolonisador na naging simbolo ng diskriminasyon, ngunit kalauna’y ginamit bilang simbolo ng pagkamakabayan."
     },
     {
-      "answer": "Lumbay",
-      "question": "Kalungkutan; sadness."
+      "question": "Isang institusyong pang-edukasyon na layuning magturo at magsaliksik; karaniwang tumutukoy sa paaralan o unibersidad.",
+      "answer": "Akademya",
+      "trivia": "Sa sinaunang Gresya, ang “Academy” ay itinatag ni Plato, at dito nakuha ang salitang “akademya” sa maraming wika."
     },
     {
-      "answer": "Marahas",
-      "question": "Mabagsik o mapanganib; violent."
+      "question": "Tututulan o kokontrahin; hindi susunod sa isang utos, opinyon, o kalakaran.",
+      "answer": "Sasalungatin",
+      "trivia": "Ginagamit ito sa mga pahayag ng mga aktibistang Pilipino bilang bahagi ng mga panawagang tumutol sa katiwalian o di-makatarungang batas."
     },
     {
-      "answer": "Alingawngaw",
-      "question": "Pag-ulit ng tunog; echo."
+      "question": "Inumin na may alkohol na karaniwang gawa sa malting barley; katumbas ng \"beer.\"",
+      "answer": "Serbesa",
+      "trivia": "Isa sa mga iniimportang produkto mula sa Espanya noong panahon ng kolonisasyon, na naging bahagi na rin ng kulturang Pilipino."
     },
     {
-      "answer": "Pagtutol",
-      "question": "Hindi pagsang-ayon; objection."
+      "question": "Padalos-dalos sa kilos o desisyon; madaling magpadala sa damdamin o silakbo ng emosyon.",
+      "answer": "Mapusok",
+      "trivia": "Isa sa mga ugaling karaniwang iniiwasan sa mga kwento ng trahedya, na kadalasang nauuwi sa pagsisisi ng tauhan."
     },
     {
-      "answer": "Balumbon",
-      "question": "Makapal na ulap o usok; thick cloud or smoke."
+      "question": "Tulisan o bandido; taong nanloloob o magnanakaw sa kabundukan o liblib na lugar.",
+      "answer": "Tulisan",
+      "trivia": "Noong panahon ng Kastila, ang mga tulisan ay hindi lamang simpleng magnanakaw—madalas din silang ituring na mga rebelde o lumalaban sa kolonyal na pamahalaan."
     },
     {
-      "answer": "Pagsamo",
-      "question": "Mataimtim na pakiusap; earnest plea."
+      "question": "Isang patag at pahabang piraso ng kahoy; karaniwang ginagamit sa paggawa ng bahay o muwebles.",
+      "answer": "Tabla",
+      "trivia": "Sa mga probinsya, madalas na reusing or recycling ng mga tabla mula sa lumang bahay para sa bagong konstruksyon."
     },
     {
-      "answer": "Pighati",
-      "question": "Matinding kalungkutan; grief."
+      "question": "Kuwintas na may krus o medalya na simbolo ng pananampalataya.",
+      "answer": "Agnos",
+      "trivia": "Sa El Filibusterismo, ang agnos ay isinusuot ni Juli bilang kwintas, simbolo ng kanyang kabusilakan at pananampalataya."
     },
     {
-      "answer": "Guniguni",
-      "question": "Malikot na imahinasyon; imagination or hallucination."
+      "question": "Uri ng laro kung saan tumatalon ang mga bata sa iisang paa habang inuulit ang ilang hakbang.",
+      "answer": "Ripeke",
+      "trivia": "Isa itong tradisyonal na larong Pilipino na katulad ng hopscotch, na nagpapakita ng likas na pagiging malikhain ng kabataang Pilipino kahit walang laruan."
     },
     {
-      "answer": "Pangungulila",
-      "question": "Matinding pagkamiss o kalungkutan; longing."
+      "question": "Antas ng edukasyon o kursong natapos sa kolehiyo; katumbas ng \"bachelor's degree.\"",
+      "answer": "Pagkabatsilyer",
+      "trivia": "Noong panahon ng Espanyol, ang pagkakaroon ng pagkabatsilyer ay bihira para sa mga Pilipino at karaniwang naaabot lamang ng mga mayayaman o mestizo."
     },
     {
-      "answer": "Magapi",
-      "question": "Matalo o masupil; defeat."
+      "question": "Nangangahulugang “napakahusay” o “excellent”; pinakamataas na marka sa sistemang Espanyol.",
+      "answer": "Sobresaliente",
+      "trivia": "Ang gradong sobresaliente ay ipinagkakaloob lamang sa mga estudyanteng may pambihirang talino at sipag sa pag-aaral noong panahon ng kolonyal na edukasyon."
     },
     {
-      "answer": "Sigwa",
-      "question": "Malakas na bagyo o unos; strong storm."
+      "question": "Mahina o banayad na ingay, gaya ng yapak o galaw ng dahon.",
+      "answer": "Kaluskos",
+      "trivia": "Sa panitikang Pilipino, madalas gamitin ang salitang kaluskos sa paglalarawan ng suspense o kilabot, gaya ng sa mga kuwentong kababalaghan."
     },
     {
-      "answer": "Dalisay",
-      "question": "Malinis o puro; pure."
+      "question": "Kasangkapang pambungkal ng lupa.",
+      "answer": "Asarol",
+      "trivia": "Isa ito sa mga kasangkapang ipinasa-pasa sa mga henerasyon sa mga pamilyang magsasaka sa Pilipinas."
     },
     {
-      "answer": "Pagsalungat",
-      "question": "Pagtutol o hindi pagsang-ayon; opposition."
+      "question": "Kumalat o dumaloy, kadalasan sa dugo (hal. _____ ang dugo).",
+      "answer": "Dumanak",
+      "trivia": "Kilala ito sa kasabihang “dumanak ang dugo,” na naging simbolo ng marahas na rebelyon sa mga nobela ni Rizal."
     },
     {
-      "answer": "Lingid",
-      "question": "Hindi nalalaman o tago; hidden or secret."
+      "question": "Lolo o matandang lalaki.",
+      "answer": "Ingkong",
+      "trivia": "Sa ilang probinsya, ginagamit pa rin ang “Ingkong” bilang tawag sa mga lolo bilang pagpapakita ng respeto."
     },
     {
-      "answer": "Kaguluhan",
-      "question": "Gulo o kalituhan; chaos."
+      "question": "Umiyak nang malakas o may paghihinagpis.",
+      "answer": "Nanangis",
+      "trivia": "Sa tradisyunal na lamay o burol, karaniwan ang maririnding pananangis bilang pagpapahayag ng matinding dalamhati."
     },
     {
-      "answer": "Alingasngas",
-      "question": "Ingay ng tsismis; rumor or gossip noise."
+      "question": "Salapi o pera.",
+      "answer": "Kuwalta",
+      "trivia": "Bagaman Tagalog, galing ito sa salitang Kastila na “cuarta” (ibig sabihin ay barya o pera)."
     },
     {
-      "answer": "Ligalig",
-      "question": "Pag-aalala o pagkabalisa; disturbance or worry."
+      "question": "Hindi totoo; peke.",
+      "answer": "Huwad",
+      "trivia": "Madalas itong gamitin sa mga talumpati ukol sa katarungan at katotohanan, bilang babala sa mga mapanlinlang."
+    },
+    {
+      "question": "Salitang Espanyol na nangangahulugang \"sige\" o \"ayos.\"",
+      "answer": "Vale",
+      "trivia": "Karaniwang naririnig sa mga lumang pelikula o akdang Espanyol-Filipino, na nagpapakita ng impluwensya ng wikang Espanyol sa kulturang Pilipino."
+    },
+    {
+      "question": "Isulat o irehistro sa talaan.",
+      "answer": "Itala",
+      "trivia": "Sa sinaunang panahon, ginagamit ang baybayin upang itala ang mahahalagang pangyayari sa kasaysayan."
+    },
+    {
+      "question": "Pumirma o maglagay ng pirma.",
+      "answer": "Lumagda",
+      "trivia": "Ang paglalagda ay isang pormal na kilos na sumisimbolo ng pananagutan, gaya ng sa Acta de la Proclamación de la Independencia del Pueblo Filipino noong 1898."
+    },
+    {
+      "question": "Layunin o mithiin, karaniwang nauukol sa kabutihang panlipunan.",
+      "answer": "Adhikain",
+      "trivia": "Ang adhikain ng mga kabataan sa nobela ay nagpapakita ng kabayanihan kahit sa murang edad."
+    },
+    {
+      "question": "Puti o kulay-abo na ang buhok; matanda.",
+      "answer": "Ubanin",
+      "trivia": "Karaniwang iniuugnay sa karunungan o pagsisisi, gaya ng karakter ni Isagani na binansagang “ubanin” bilang simbolo ng kanyang panloob na hinanakit."
+    },
+    {
+      "question": "Namamayaning kaputlaan sa mukha dulot ng takot o pagkabigla.",
+      "answer": "Namumutla",
+      "trivia": "Ayon sa paniniwala noon, ang biglaang pamumutla ay senyales ng masamang pangyayari o pagkakasangkot sa delikadong sitwasyon."
+    },
+    {
+      "question": "Pangkat na inatasang magsiyasat o mag-imbestiga.",
+      "answer": "Komisyon",
+      "trivia": "Madalas gamitin ng mga kolonyal na pamahalaan upang patahimikin ang mga hinaing ng mamamayan, ngunit bihira namang magbunga ng tunay na pagbabago."
+    },
+    {
+      "question": "Nilalang sa mitolohiya na may ulo ng tao at katawan ng leon.",
+      "answer": "Esfinge",
+      "trivia": "Hango sa mitolohiya ng Ehipto at Gresya, simbolo ito ng hiwaga at palaisipan. Sa nobela, ginamit ito upang painitin ang interes sa ilusyon ni Mr. Leeds."
+    },
+    {
+      "question": "Pekeng hari sa kasaysayan ng Persia.",
+      "answer": "Gaumata",
+      "trivia": "Isa siyang mapanlinlang na tauhan sa kasaysayan. Sa kuwento ni Imuthis, sumasagisag ito sa temang panlilinlang at pamumunong huwad—tulad ng mga prayle’t Kastila."
+    },
+    {
+      "question": "Kinatawan o tagapamagitan sa mga usaping legal.",
+      "answer": "Procurador",
+      "trivia": "Ginagamit sa panitikan bilang simbolo ng sistemang kolonyal na laging may kinikilingan, gaya ng tulong na gustong hilingin ni Kabesang Andang sa mga prayle."
+    },
+    {
+      "question": "Tulisan o rebelde.",
+      "answer": "Manunulisan",
+      "trivia": "Sa panahong kolonyal, tinuturing na kriminal ang mga manunulisan, ngunit para sa ilan, sila’y simbolo ng paghihimagsik laban sa mapaniil na pamahalaan."
+    },
+    {
+      "question": "Isang uri ng maikling musikal na dula.",
+      "answer": "Opereta",
+      "trivia": "Sikat noong ika-19 siglo sa Europa at Pilipinas, pinanonood ng mga elitista bilang libangan at simbolo ng mataas na uri ng sining."
+    },
+    {
+      "question": "Kalaban, kasangga sa pakikipaglaban sa isang layunin o minamahal.",
+      "answer": "Karibal",
+      "trivia": "Mula sa salitang Kastila na \"rival,\" na nangangahulugang kalaban o kakumpitensya. Sa makalumang konteksto, ito rin ay maaaring tumukoy sa isang taong may parehong layunin o pagnanasa."
+    },
+    {
+      "question": "Wasakin o gibaing isang bagay tulad ng pader o istruktura.",
+      "answer": "Gibain",
+      "trivia": "Karaniwang ginagamit ito sa kontekstong ang isang bagay ay nasira o winasak, tulad ng isang pader, bahay, o anumang istruktura."
+    },
+    {
+      "question": "Isang uri ng sasakyan na hihilahin ng kabayo, ginagamit noong panahon ng mga Kastila sa Pilipinas.",
+      "answer": "Karwahe",
+      "trivia": "Isang pangkaraniwang sasakyan noong panahon ng kolonyal na Kastila, ginagamit sa mga pormal na kaganapan o pagbiyahe sa mga mahahalagang lugar."
+    },
+    {
+      "question": "Ranggo ng military officer sa panahon ng kolonyal na Espanya, kadalasang tumutukoy sa mga mababang opisyal ng mga guwardiya sibil.",
+      "answer": "Kabo",
+      "trivia": "Isang ranggo sa militar na nauugnay sa pag-uutos at pamamahala ng mga guwardiya sibil, isang simbolo ng kapangyarihan at kontrol sa mga pook."
+    },
+    {
+      "question": "Isang uri ng plakard o poster na karaniwang ginagamit para sa mga pampulitikang pahayag o mga mensahe ng paghihimagsik.",
+      "answer": "Paskin",
+      "trivia": "Mga nakalantad na mensahe na may layuning magbigay babala o magpahayag ng hindi pagkakasunduan sa mga pamahalaang awtoridad."
+    },
+    {
+      "question": "Tama, ayon sa batas o moralidad.",
+      "answer": "Matuwid",
+      "trivia": "Huling taong may paninindigan at konsensya sa gitna ng kaguluhan, gaya ni Basilio."
+    },
+    {
+      "question": "Yunit ng mga sundalo sa ilalim ng isang pamunuan.",
+      "answer": "Rehimyento",
+      "trivia": "Isang yunit ng mga sundalo, mula sa salitang Kastilang regimiento, na may tungkuling magpanatili ng kaayusan sa ilalim ng pamumuno ng Kastila."
     }
   ]
 }
