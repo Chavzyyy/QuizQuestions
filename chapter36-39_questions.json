@@ -1,79 +1,79 @@
 {
   "questions": [
     {
-      "Question": "Sino ang nag-utos kay Quiroga na ilagay ang mga armas sa kanyang tindahan?",
-      "Answers": ["Don Custodio", "Simoun", "Padre Salvi", "Mr. Leeds"],
+      "Question": "Ano ang pamagat ng operetang itinanghal sa Teatro de Variedades?",
+      "Answers": ["Carmen", "Les Cloches de Corneville", "La Traviata", "La Boheme"],
       "CorrectAnswers": 1
     },
     {
-      "Question": "Ano ang kapalit ng pagpapayag ni Quiroga sa plano ni Simoun?",
-      "Answers": ["Babayaran ang utang niya", "Bibigyan siya ng titulo", "Bibigyan siya ng bagong tindahan", "Palalayain ang mga utang niya"],
+      "Question": "Sino ang hindi natuwa sa kaguluhan sa Teatro de Variedades?",
+      "Answers": ["Padre Salvi", "Camaroncocido", "Don Custodio", "Isagani"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang ibig sabihin ni Camaroncocido tungkol sa kaguluhan sa Teatro?",
+      "Answers": ["Ang mga estudyante ang sanhi", "Ang mga prayle ang sanhi", "Ang mga manonood ay hindi magalang", "Ang mga tauhan ng teatro ang nagkagulo"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Sino ang nag-pipintasan kay Ben-Zayb tungkol sa kalinisan ng budhi at pananampalataya?",
+      "Answers": ["Padre Salvi", "Simoun", "Don Custodio", "Camaroncocido"],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Sino ang nagtanong kay Juanito tungkol sa mga dalaga sa teatro?",
+      "Answers": ["Isagani", "Paulita", "Donya Victorina", "Ben-Zayb"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Bakit hindi natuwa si Isagani sa pagtatanghal sa teatro?",
+      "Answers": ["Dahil kay Juanito", "Dahil sa kahirapan sa pagsasalin ng wika", "Dahil sa kasamaan ng mga manonood", "Dahil sa hindi pagkakasunduan ng mga estudyante"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Anong uri ng saloobin ang ipinahayag ni Paulita tungkol sa kanyang pagpapakasal?",
+      "Answers": ["Kasiyahan", "Pag-aalinlangan", "Pagpapasya", "Kalungkutan"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang itinuturing ni Simoun na magiging simula ng himagsikan?",
+      "Answers": ["Ang isang lihim na pagtitipon", "Ang pagpatay kay Padre Salvi", "Ang hudyat ng isang putok", "Ang pag-aksyon ng mga estudyante"],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang pagkamatay ni Maria Clara ayon kay Basilio?",
+      "Answers": ["Hindi totoo, buhay siya", "Nagkasakit siya at namatay", "Nabihag siya ng mga Kastila", "Pinatay siya ni Padre Salvi"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang alok ni Simoun kay Basilio?",
+      "Answers": ["Ang pagiging lider ng kilusan", "Pagpapasya kung saan siya sasali—sa pamahalaan o sa bayan", "Pag-aalaga kay Maria Clara", "Pagkakaroon ng bagong buhay sa ibang bansa"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Bakit tumanggi si Paulita sa mga pangarap ni Isagani tungkol sa kanyang bayan?",
+      "Answers": ["Hindi siya naniniwala sa mga pangarap", "Hindi siya kayang maglakbay sa maputik na bundok", "Ayaw niyang umalis sa kanyang tiyahin", "Wala siyang interes sa bayan ni Isagani"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Anong pangarap ang ibinahagi ni Isagani kay Paulita?",
+      "Answers": ["Ang magtayo ng mga pabrika", "Ang magkaroon ng mga daang bakal", "Ang maging pinuno ng bayan", "Ang maging kasintahan ni Paulita"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Saan isinagawa ang piging ng mga estudyante?",
+      "Answers": ["Sa Panciteria Macanista de Buen Gusto", "Sa Plaza de Sta. Cruz", "Sa Liceo de Manila", "Sa Teatro de Variedades"],
       "CorrectAnswers": 0
     },
     {
-      "Question": "Anong plano ang pinag-usapan sa kabilang bahagi ng bahay ni Quiroga?",
-      "Answers": ["Magpadala ng komisyon sa India", "Magtatag ng akademya", "Mag-angkat ng armas", "Magsagawa ng rebelyon"],
+      "Question": "Ano ang tawag ni Sandoval sa sopas na inihain sa piging?",
+      "Answers": ["Pansit-langlang", "Tortang prayle", "Pansit gisado", "Panukalang sopas"],
+      "CorrectAnswers": 3
+    },
+    {
+      "Question": "Ano ang ipinahayag ni Pecson sa piging tungkol sa mga prayle?",
+      "Answers": ["Sila ang nag-aalis ng ating mga kasalanan", "Sila ang nagtatanggol sa bayan", "Sila ang tanging may kakayahang magturo", "Sila ang nagpapalaganap ng kaalaman"],
       "CorrectAnswers": 0
-    },
-    {
-      "Question": "Ano ang usap-usapan sa umpukan ng mga prayle?",
-      "Answers": ["Pagtaas ng buwis", "“Ulong nagsasalita” sa perya", "Planong pagpatay kay Simoun", "Pagbaba ng Kapitan Heneral"],
-      "CorrectAnswers": 1
-    },
-    {
-      "Question": "Sino ang Amerikano na nagtatanghal ng palabas sa Quiapo?",
-      "Answers": ["Simoun", "Mr. Leeds", "Ben-Zayb", "Quiroga"],
-      "CorrectAnswers": 1
-    },
-    {
-      "Question": "Ano ang naging aliw ni Padre Camorra habang naglalakad sa perya?",
-      "Answers": ["Mga pagkain", "Mga dalagang dumaraan", "Mga laro sa perya", "Mga palabas"],
-      "CorrectAnswers": 1
-    },
-    {
-      "Question": "Sino ang pinaghinalaan nina Padre Salvi at Ben-Zayb na may lihim kay Mr. Leeds?",
-      "Answers": ["Quiroga", "Simoun", "Don Custodio", "Basilio"],
-      "CorrectAnswers": 1
-    },
-    {
-      "Question": "Ano ang laman ng kahang natagpuan ni Mr. Leeds sa piramide?",
-      "Answers": ["Ginto", "Salita ng buhay at kamatayan", "Mga armas", "Matandang aklat"],
-      "CorrectAnswers": 1
-    },
-    {
-      "Question": "Sino ang bumangon mula sa abo sa palabas ni Mr. Leeds?",
-      "Answers": ["Kabesang Tales", "Imuthis", "Simoun", "Mr. Leeds mismo"],
-      "CorrectAnswers": 1
-    },
-    {
-      "Question": "Ano ang naging reaksiyon ng mga nanood sa palabas ng ulo?",
-      "Answers": ["Tumawa", "Natakot at nagulat", "Nagalit kay Mr. Leeds", "Umalis agad"],
-      "CorrectAnswers": 1
-    },
-    {
-      "Question": "Ano ang plano ni Placido matapos magalit sa unibersidad?",
-      "Answers": ["Sumali sa mga rebolusyonaryo", "Tumakas patungong Hong Kong", "Magtayo ng sariling paaralan", "Magbalik sa Tanauan"],
-      "CorrectAnswers": 1
-    },
-    {
-      "Question": "Sino ang kinausap ni Placido tungkol sa kanyang pag-alis?",
-      "Answers": ["Macaraig", "Kabesang Andang", "Basilio", "Don Custodio"],
-      "CorrectAnswers": 1
-    },
-    {
-      "Question": "Sino ang pinapahanap ni Simoun para sa kanilang plano?",
-      "Answers": ["Mr. Leeds", "Kabesang Tales", "Quiroga", "Juanito Pelaez"],
-      "CorrectAnswers": 1
-    },
-    {
-      "Question": "Ano ang inutusan ni Simoun sa maestro na gawin?",
-      "Answers": ["Mag-imbak ng pagkain", "Dalhin ang mga pulbura at bomba", "Magturo ng sapatero", "Hanapin si Maria Clara"],
-      "CorrectAnswers": 1
-    },
-    {
-      "Question": "Ano ang desisyon ni Don Custodio tungkol sa Akademya ng Wikang Kastila?",
-      "Answers": ["Itutuloy agad", "Siya ang magpapasya kung itutuloy", "Ibabasura na lang", "Ipapaubaya sa mga prayle"],
-      "CorrectAnswers": 1
     }
   ]
 }
