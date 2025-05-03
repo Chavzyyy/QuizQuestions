@@ -1,79 +1,79 @@
 {
   "questions": [
     {
-      "Question": "Ano ang pamagat ng operetang itinanghal sa Teatro de Variedades?",
-      "Answers": ["Carmen", "Les Cloches de Corneville", "La Traviata", "La Boheme"],
-      "CorrectAnswers": 1
-    },
-    {
-      "Question": "Sino ang hindi natuwa sa kaguluhan sa Teatro de Variedades?",
-      "Answers": ["Padre Salvi", "Camaroncocido", "Don Custodio", "Isagani"],
-      "CorrectAnswers": 1
-    },
-    {
-      "Question": "Ano ang ibig sabihin ni Camaroncocido tungkol sa kaguluhan sa Teatro?",
-      "Answers": ["Ang mga estudyante ang sanhi", "Ang mga prayle ang sanhi", "Ang mga manonood ay hindi magalang", "Ang mga tauhan ng teatro ang nagkagulo"],
-      "CorrectAnswers": 1
-    },
-    {
-      "Question": "Sino ang nag-pipintasan kay Ben-Zayb tungkol sa kalinisan ng budhi at pananampalataya?",
-      "Answers": ["Padre Salvi", "Simoun", "Don Custodio", "Camaroncocido"],
+      "Question": "Ano ang naging dahilan ng hindi pagpapalaya kay Basilio sa Kabanata 31?",
+      "Answers": ["Siya'y hindi nakatapos ng pag-aaral", "Siya'y isang dating alila ni Kapitan Tiago", "Siya'y may kasalanan", "Wala siyang kakayahang magtanggol ang sarili"],
       "CorrectAnswers": 2
     },
     {
-      "Question": "Sino ang nagtanong kay Juanito tungkol sa mga dalaga sa teatro?",
-      "Answers": ["Isagani", "Paulita", "Donya Victorina", "Ben-Zayb"],
-      "CorrectAnswers": 1
-    },
-    {
-      "Question": "Bakit hindi natuwa si Isagani sa pagtatanghal sa teatro?",
-      "Answers": ["Dahil kay Juanito", "Dahil sa kahirapan sa pagsasalin ng wika", "Dahil sa kasamaan ng mga manonood", "Dahil sa hindi pagkakasunduan ng mga estudyante"],
-      "CorrectAnswers": 1
-    },
-    {
-      "Question": "Anong uri ng saloobin ang ipinahayag ni Paulita tungkol sa kanyang pagpapakasal?",
-      "Answers": ["Kasiyahan", "Pag-aalinlangan", "Pagpapasya", "Kalungkutan"],
-      "CorrectAnswers": 1
-    },
-    {
-      "Question": "Ano ang itinuturing ni Simoun na magiging simula ng himagsikan?",
-      "Answers": ["Ang isang lihim na pagtitipon", "Ang pagpatay kay Padre Salvi", "Ang hudyat ng isang putok", "Ang pag-aksyon ng mga estudyante"],
+      "Question": "Ano ang sinabi ng Kapitan Heneral tungkol kay Basilio sa Kabanata 31?",
+      "Answers": ["Hindi na siya palalayain", "Siya ang magiging halimbawa ng batas", "Siya ang magpapabago ng sistema", "Siya'y walang silbi sa lipunan"],
       "CorrectAnswers": 2
     },
     {
-      "Question": "Ano ang pagkamatay ni Maria Clara ayon kay Basilio?",
-      "Answers": ["Hindi totoo, buhay siya", "Nagkasakit siya at namatay", "Nabihag siya ng mga Kastila", "Pinatay siya ni Padre Salvi"],
-      "CorrectAnswers": 1
+      "Question": "Sino ang hindi pinalad na makapasa sa pagsusulit sa Kabanata 32?",
+      "Answers": ["Macaraig", "Sandoval", "Basilio", "Pecson, Tadeo, at Juanito Pelaez"],
+      "CorrectAnswers": 4
     },
     {
-      "Question": "Ano ang alok ni Simoun kay Basilio?",
-      "Answers": ["Ang pagiging lider ng kilusan", "Pagpapasya kung saan siya sasali—sa pamahalaan o sa bayan", "Pag-aalaga kay Maria Clara", "Pagkakaroon ng bagong buhay sa ibang bansa"],
-      "CorrectAnswers": 1
+      "Question": "Ano ang ginawa ni Simoun sa Kabanata 32 na nagpakita ng kanyang yaman?",
+      "Answers": ["Binili niya ang bahay ni Kapitan Tiago", "Nagpakita siya ng mga brilyante at perlas", "Nagbigay siya ng malaking donasyon sa simbahan", "Nagtanghal ng isang malaking karnabal"],
+      "CorrectAnswers": 2
     },
     {
-      "Question": "Bakit tumanggi si Paulita sa mga pangarap ni Isagani tungkol sa kanyang bayan?",
-      "Answers": ["Hindi siya naniniwala sa mga pangarap", "Hindi siya kayang maglakbay sa maputik na bundok", "Ayaw niyang umalis sa kanyang tiyahin", "Wala siyang interes sa bayan ni Isagani"],
-      "CorrectAnswers": 1
+      "Question": "Ano ang nangyari kay Paulita Gomez sa Kabanata 32?",
+      "Answers": ["Nagpasya siyang magtulungan kay Isagani", "Pinili niyang magpakasal kay Juanito Pelaez", "Namatay siya sa isang aksidente", "Umalis siya ng bansa kasama si Simoun"],
+      "CorrectAnswers": 2
     },
     {
-      "Question": "Anong pangarap ang ibinahagi ni Isagani kay Paulita?",
-      "Answers": ["Ang magtayo ng mga pabrika", "Ang magkaroon ng mga daang bakal", "Ang maging pinuno ng bayan", "Ang maging kasintahan ni Paulita"],
-      "CorrectAnswers": 1
+      "Question": "Ano ang ibig sabihin ng lampara na ipinakita ni Simoun kay Basilio sa Kabanata 33?",
+      "Answers": ["Isang tanda ng pag-ibig", "Isang sandata ng himagsikan", "Isang simbolo ng kapayapaan", "Isang kagamitan sa simbahan"],
+      "CorrectAnswers": 2
     },
     {
-      "Question": "Saan isinagawa ang piging ng mga estudyante?",
-      "Answers": ["Sa Panciteria Macanista de Buen Gusto", "Sa Plaza de Sta. Cruz", "Sa Liceo de Manila", "Sa Teatro de Variedades"],
-      "CorrectAnswers": 0
+      "Question": "Ano ang laman ng lampara na ipinakita ni Simoun kay Basilio?",
+      "Answers": ["Isang lihim na mensahe", "Nitro-gliserina o dinamita", "Ginto at perlas", "Mga lihim na kasunduan"],
+      "CorrectAnswers": 2
     },
     {
-      "Question": "Ano ang tawag ni Sandoval sa sopas na inihain sa piging?",
-      "Answers": ["Pansit-langlang", "Tortang prayle", "Pansit gisado", "Panukalang sopas"],
+      "Question": "Ano ang plano ni Simoun sa mga taong maghihimagsik?",
+      "Answers": ["Papatagilid ang mga ito sa lahat ng aspekto ng buhay", "Itatago sila sa mga madilim na lugar", "Papatagilid ang mga opresor sa pamamagitan ng himagsikan", "Puwersahan silang magsuko"],
       "CorrectAnswers": 3
     },
     {
-      "Question": "Ano ang ipinahayag ni Pecson sa piging tungkol sa mga prayle?",
-      "Answers": ["Sila ang nag-aalis ng ating mga kasalanan", "Sila ang nagtatanggol sa bayan", "Sila ang tanging may kakayahang magturo", "Sila ang nagpapalaganap ng kaalaman"],
-      "CorrectAnswers": 0
+      "Question": "Ano ang naging reaksyon ni Basilio nang malaman niyang may dinamita sa lampara sa Kabanata 34?",
+      "Answers": ["Nagdesisyon siyang huwag ipaalam ang panganib", "Pumunta siya kay Isagani upang ibalita ang panganib", "Tumakas siya patungo sa ibang bayan", "Sinusubukan niyang pigilan si Simoun"],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Anong bahay ang ginagamit para sa kasal nina Paulita at Juanito?",
+      "Answers": ["Bahay ni Simoun", "Bahay ni Kapitan Tiago, ngayon ay bahay ni Don Timoteo Pelaez", "Bahay ni Padre Salvi", "Bahay ni Don Custodio"],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Sino ang naghanda ng lampara ng kamatayan na ginamit sa kasal?",
+      "Answers": ["Padre Salvi", "Basilio", "Simoun", "Isagani"],
+      "CorrectAnswers": 3
+    },
+    {
+      "Question": "Ano ang dahilan ng pagkaantala sa pagpapasabog ng lampara?",
+      "Answers": ["Nakita ng guwardiya si Simoun", "Hindi gumana ang mekanismo ng lampara", "Si Basilio ang tumigil sa pagpapasabog", "Naramdaman ni Simoun na hindi tama ang kanyang ginagawa"],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang reaksyon ng Kapitan Heneral nang makita ang sulat na nagsasabing si Ibarra ay buhay pa?",
+      "Answers": ["Agad niyang ipinag-utos ang paghahanap kay Ibarra", "Nagduda siya sa tunay na mensahe", "Natawa siya at itinuring na biro", "Inutusan niyang sugurin ang mga rebeldeng may kinalaman"],
+      "CorrectAnswers": 3
+    },
+    {
+      "Question": "Ano ang nangyari sa lampara sa Kabanata 35?",
+      "Answers": ["Sumabog ito at pumatay sa lahat ng tao sa paligid", "Isang anino ang nagligtas sa mga tao at inihagis ang lampara sa ilog", "Pumutok ito ngunit walang pinsala", "Nakalimutan itong patayin kaya hindi sumabog"],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Anong mensahe ang ipinasikat ng paskin sa Kabanata 32?",
+      "Answers": ["Na dapat ang mga tao ay magtulungan sa kabila ng mga pagkakaiba", "Na ang mga mahihirap ay kailangang maghimagsik laban sa mga mayaman", "Na ang mga magulang ay dapat alagaan ang kanilang mga anak", "Na ang edukasyon ay hindi ang tanging solusyon sa kahirapan"],
+      "CorrectAnswers": 2
     }
   ]
 }
