@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "Question": "Sino ang kilala sa buong Luzon bilang isang kilabot dahil sa kanyang biglaang pagsalakay?",
+      "Answers": [
+        "Simoun",
+        "Kabesang Tales",
+        "Tandang Selo",
+        "Carolino"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Anong mga lugar ang nilusob ni Kabesang Tales?",
+      "Answers": [
+        "Tiyani at Sta. Mesa",
+        "Batangas, Cavite, Tayabas, Pangasinan, Timog ng Albay, Hilagang Cagayan",
+        "Maynila lamang",
+        "Sta. Cruz at Escolta"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang ginawa ng guwardiya sibil na si Mautang sa mga bihag?",
+      "Answers": [
+        "Pinakawalan sila agad",
+        "Pinatigil sandali para sa isang pangangailangan",
+        "Pinapalo at pinilit na lumakad",
+        "Tinulungan silang makatakas"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Sino ang nakapagpahinto sa guwardiya at nagbigay ng matinding takot kay Carolino?",
+      "Answers": [
+        "Isang estudyante",
+        "Tandang Selo",
+        "Kabesang Tales",
+        "Simoun"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang reaksyon ni Carolino nang makita ang kanyang ingkong si Tandang Selo?",
+      "Answers": [
+        "Tumakas siya agad",
+        "Napaisip at nagdalamhati",
+        "Hinabol niya ang kalaban",
+        "Walang ginawa"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang nangyari sa guwardiya sibil pagkatapos makita si Tandang Selo?",
+      "Answers": [
+        "Nagpatuloy sa pag-atake",
+        "Umatras at naglaho",
+        "Hinuli ang lahat ng bihag",
+        "Sumali kay Kabesang Tales"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang ipinahihiwatig sa pamamagitan ng mga mata ni Tandang Selo kay Carolino?",
+      "Answers": [
+        "Ang panganib sa digmaan",
+        "Isang buhay na puno ng pagpapakasakit",
+        "Ang lihim ni Simoun",
+        "Ang kayamanan ng mga Kastila"
+      ],
+      "CorrectAnswers": 0
+    }
+  ]
+}

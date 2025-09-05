@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "Question": "Ano ang kumalat na balita sa simula ng kabanata?",
+      "Answers": [
+        "Namatay si Simoun",
+        "Nilusob ng mga tulisan ang bahay-liwaliwan ng mga prayle sa baybayin ng Ilog Pasig",
+        "Nagtapos ang mga estudyante",
+        "Naganap ang kasal ni Paulita"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang sinasabi ng unang ulat ng extrang lalaki tungkol sa ninakaw ng mga tulisan?",
+      "Answers": [
+        "Limampung piso lang",
+        "Mahigit na dalawang libong piso at nasugatan ang isang prayle at dalawang alila",
+        "Wala silang ninakaw",
+        "Nasunog ang bahay"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Paano inilarawan ni Ben-Zayb ang kanyang balita bago niya makita ang sugatang Padre Camorra?",
+      "Answers": [
+        "Ang mga tulisan ay malupit, Heneral at Padre Salvi ay matatapang, may mga pahayag tungkol sa pananampalataya at utang ng Indio sa mga prayle",
+        "Ang lahat ay payak at walang kabuluhan",
+        "Isang biro lamang",
+        "Hindi malinaw"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang totoong nangyari ayon kay Padre Camorra?",
+      "Answers": [
+        "Apat lamang ang tulisan, may itak, limampung piso lang ang nakuha at maliit lamang ang sugat niya",
+        "Mahigit dalawang libong piso ang ninakaw",
+        "Hindi siya nasugatan",
+        "Wala siyang alam tungkol sa insidente"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Sino ang mamumuno sa malaking pag-atake sa kumbento at mga bahay ng mayayaman sa Sta. Mesa?",
+      "Answers": [
+        "Si Ben-Zayb",
+        "Isang Kastilang kahawig ni Simoun, utos ng Heneral",
+        "Kabesang Tales",
+        "Padre Camorra"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang nangyari sa mga tulisan pagkatapos nilang makita na walang putok ng kanyon?",
+      "Answers": [
+        "Nagpatuloy sa paglusob",
+        "Umatras ang ilan at ang iba’y muling nagtago sa kabundukan",
+        "Nawala sila sa Maynila",
+        "Pinatay sila ng mga kawal"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Kanino dumalaw si Ben-Zayb sa hapon, at ano ang kanyang natagpuan?",
+      "Answers": [
+        "Kay Simoun; naghahanda para sa lampara",
+        "Kay Don Custodio; abalang-abala sa bagong panukala laban sa mag-aalahas na Amerikano",
+        "Kay Kapitan Heneral; nag-uusap tungkol sa bayan",
+        "Kay Isagani; naglalakad sa lansangan"
+      ],
+      "CorrectAnswers": 0
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "Question": "Saan naglakad si Isagani bago lumubog ang araw?",
+      "Answers": [
+        "Plaza de Sta. Cruz",
+        "Paseo de Maria Cristina",
+        "Teatro de Variedades",
+        "Kumbento ng Sta. Clara"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Bakit napilitan si Paulita na pumasok sa teatro?",
+      "Answers": [
+        "Dahil gusto niya",
+        "Dahil pinilit siya ng kanyang tiya",
+        "Dahil may sorpresa doon",
+        "Dahil mayroong kasal"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang naging epekto ng ngiti ni Paulita kay Isagani?",
+      "Answers": [
+        "Lalong nagalit siya",
+        "Nawala ang lahat ng hinanakit at pag-aalinlangan",
+        "Natuwa siya sa teatro",
+        "Nais niyang umalis agad"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang pangarap ni Isagani para sa bayan?",
+      "Answers": [
+        "Magkaroon ng mga daang bakal at pagbubukas ng magagandang sulok ng kapuluan",
+        "Maging mayaman at tanyag",
+        "Manatili sa Madrid",
+        "Magtayo ng teatro"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Paano ipinakita ni Isagani ang dedikasyon niya sa bayan kay Paulita?",
+      "Answers": [
+        "Nangangako ng kayamanan",
+        "Sinasabi niyang masaya siyang mamamatay para sa bayan",
+        "Ipinapakita ang kanyang galing sa sayaw",
+        "Nagbigay ng liham kay Paulita"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Sino ang naupo sa likod sa karwahe?",
+      "Answers": [
+        "Isagani at Paulita",
+        "Donya Victorina at Juanito",
+        "Basilio at Simoun",
+        "Pecson at Sandoval"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang naramdaman ni Isagani nang makarating sa Plaza de Sta. Cruz?",
+      "Answers": [
+        "Naramdaman niya ang katotohanan at tila panaginip",
+        "Naligaw siya",
+        "Galit siya kay Paulita",
+        "Nagsaya siya nang husto sa teatro"
+      ],
+      "CorrectAnswers": 0
+    }
+  ]
+}

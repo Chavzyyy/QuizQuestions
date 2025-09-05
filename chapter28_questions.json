@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "Question": "Saan naganap ang pag-uusap tungkol sa pagkakahulihan ng mga estudyante?",
+      "Answers": [
+        "Sa pamantasan mismo",
+        "Sa isang tindahan kalapit ng pamantasan",
+        "Sa bahay ni Macaraig",
+        "Sa plaza ng Maynila"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang pakiramdam ng mga tao sa tindahan habang nagkakausap?",
+      "Answers": [
+        "Masaya at nagkakasiyahan",
+        "Walang pakialam",
+        "May kaba at takot",
+        "Galit at nag-aaway"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang pangunahing iniisip ng ilan sa kabila ng kaguluhan sa bayan?",
+      "Answers": [
+        "Pagsasakripisyo para sa kalayaan",
+        "Pansariling interes, utang, at tsismis",
+        "Pagtulong sa mga estudyante",
+        "Pagsuporta sa himagsikan"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang ginawa ng isang lalaki upang itago ang ebidensya?",
+      "Answers": [
+        "Tinago ang lahat ng aklat",
+        "Sinunog ang lahat ng aklat na ipinahiram sa kanya",
+        "Ipinakita ang aklat sa lahat",
+        "Ipinadala sa Maynila"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang opinyon ng mga kababaihan tungkol kay Paulita?",
+      "Answers": [
+        "Walang interes ang sinuman sa kanya",
+        "Marami siyang tagahanga at maaaring pakasalan ng Kastila",
+        "Siya’y mawawala sa Maynila",
+        "Siya ay tutulong sa mga estudyante"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Paano inilalarawan ang takot sa Maynila sa kabanatang ito?",
+      "Answers": [
+        "Tulad ng apoy na mabilis kumalat",
+        "Tulad ng ulap na bumalot sa buong lungsod",
+        "Tulad ng dagat na tahimik",
+        "Tulad ng araw na sumisikat"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang ginawa ng tagatinda sa pagtatapos ng kabanata?",
+      "Answers": [
+        "Nagpatuloy sa pagbebenta",
+        "Magsara ng tindahan habang ang mga tao’y nagkakatinginan",
+        "Tumakas sa takot",
+        "Tinulungan ang mga estudyante"
+      ],
+      "CorrectAnswers": 0
+    }
+  ]
+}

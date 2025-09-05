@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "Question": "Ano ang kumalat sa San Diego tungkol kay Basilio?",
+      "Answers": [
+        "Namatay na siya",
+        "Nakulong siya",
+        "Nakatakas siya",
+        "Nag-aral sa Maynila"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Sino ang nagbalita kay Juli tungkol sa pagkakabilanggo ni Basilio?",
+      "Answers": [
+        "Hermana Bali",
+        "Tandang Selo",
+        "Padre Camorra",
+        "Hukom"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang naging reaksyon ni Juli nang mabalitaan ang balita?",
+      "Answers": [
+        "Natuwa at nagdiwang",
+        "Nanlumo, namutla, at nawalan ng malay",
+        "Tumakbo sa bayan",
+        "Humingi ng tulong sa hukom agad"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Sino ang iniiwasan ni Juli dahil sa nakaraan?",
+      "Answers": [
+        "Tandang Selo",
+        "Hukom",
+        "Padre Camorra",
+        "Basilio"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Bakit hindi sapat ang tulong ng dukhang kamag-anak ni Basilio?",
+      "Answers": [
+        "Hindi sila nagmalasakit",
+        "Kahit piso-piso, hindi umabot sa 30 piso",
+        "Hindi nila alam ang lugar",
+        "Mayroon silang sariling problema"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang payo ng hukom kay Juli?",
+      "Answers": [
+        "Tumakbo sa Maynila",
+        "Huwag na lang gawin ang anumang hakbang",
+        "Si Padre Camorra ang makakatulong",
+        "Humingi ng tulong kay Hermana Bali lamang"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang ginawa ni Juli upang tulungan si Basilio sa huli?",
+      "Answers": [
+        "Tumalon sa bintana ng kumbento",
+        "Pumasok sa kumbento kasama si Hermana Bali",
+        "Nagpadala ng pera at karne",
+        "Nag-ulat sa hukom at umalis"
+      ],
+      "CorrectAnswers": 0
+    }
+  ]
+}

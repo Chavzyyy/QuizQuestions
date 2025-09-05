@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "Question": "Sino ang nakita ni Basilio sa lansangan na may kasamang babaeng nakasuot ng bestidang pangkasal?",
+      "Answers": [
+        "Isagani",
+        "Juanito Pelaez",
+        "Simoun",
+        "Don Timoteo Pelaez"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang iniisip ni Basilio nang makita si Juanito at Paulita?",
+      "Answers": [
+        "Magtatakbuhan sila",
+        "Kaawa-awang Isagani at hindi alam ang nangyari kay Paulita",
+        "Magpapakasal siya sa ibang babae",
+        "Pumunta sa bahay ni Kapitan Tiago"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang dala ni Simoun nang lumabas siya mula sa bahay?",
+      "Answers": [
+        "Isang liham para kay Basilio",
+        "Ang lampara na maingat na binalot",
+        "Mga baril para sa himagsikan",
+        "Regalo para kay Paulita"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Sino ang kutsero ng karwahe sa kasal?",
+      "Answers": [
+        "Sinong",
+        "Basilio",
+        "Juanito",
+        "Kabesang Tales"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang simbolo ng tahanan ni Don Timoteo sa panahon ng kasal?",
+      "Answers": [
+        "Kasaysayan ng Maynila",
+        "Marangyang handaan at kapangyarihan",
+        "Isang tahanang mahirap",
+        "Paaralan ng mga estudyante"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang kultural na aspeto na makikita sa kabanatang ito?",
+      "Answers": [
+        "Pagdiriwang ng kasal na may marangyang handaan, bulwagan, at kiyosko bilang simbolo ng lipunang mayaman at makapangyarihan",
+        "Pagpapakita ng protesta laban sa mga prayle",
+        "Pag-aaral ng agham at matematika",
+        "Pagluluto ng tradisyonal na pagkain ng mga magsasaka"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang simbolo ng pinggan at bulaklak para kay Juanito at Paulita?",
+      "Answers": [
+        "Kapangyarihan at inosenteng kagandahan",
+        "Lakas at kayamanan",
+        "Ideyalismo at kabataan",
+        "Edukasyon at karunungan"
+      ],
+      "CorrectAnswers": 0
+    }
+  ]
+}

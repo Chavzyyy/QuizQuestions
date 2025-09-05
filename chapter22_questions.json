@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "Question": "Sino ang nakatanaw kay Paulita habang siya ay nanonood?",
+      "Answers": [
+        "Juanito",
+        "Isagani",
+        "Donya Victorina",
+        "Sandoval"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang dumating bago nagsimula ang pagtatanghal?",
+      "Answers": [
+        "Don Custodio",
+        "Padre Salvi",
+        "Heneral",
+        "Simoun"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Sino ang unang nagpakita sa pagtatanghal?",
+      "Answers": [
+        "Serpolette",
+        "Juanito",
+        "Gertrude, ang Pransesang artista",
+        "Paulita"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang problema ni Juanito sa pagtatanghal?",
+      "Answers": [
+        "Nahihirapan siyang maglakad",
+        "Nahihirapan siyang isalin ang wikang Pranses sa Kastila",
+        "Nawawala ang tiket niya",
+        "Hindi siya nakakita ng upuan"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang kahulugan ng “servantes” at “domestiques” ayon kay Juanito?",
+      "Answers": [
+        "Panginoon at hari",
+        "Sirviente o alila at domesticado o napaamo na",
+        "Kaibigan at kamag-anak",
+        "Maestro at estudyante"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang reaksyon ni Paulita nang lumabas ang 12 dalaga na pinangungunahan ni Serpolette?",
+      "Answers": [
+        "Nagulat siya at nagtanong kung sila ba ang mga taong-bundok",
+        "Natawa siya",
+        "Umalis siya",
+        "Sumayaw siya kasama nila"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Bakit umubo si Juanito?",
+      "Answers": [
+        "Natakot siya",
+        "Dahil sa pagkahiya",
+        "Nagkasakit siya",
+        "Natuwa siya"
+      ],
+      "CorrectAnswers": 0
+    }
+  ]
+}

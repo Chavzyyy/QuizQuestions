@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "Question": "Sino ang tumulong kay Simoun nang siya’y sugatan at may dalang maleta?",
+      "Answers": [
+        "Basilio",
+        "Padre Florentino",
+        "Tandang Selo",
+        "Isagani"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang huling hiling ni Simoun kay Padre Florentino?",
+      "Answers": [
+        "Makita si Paulita bago mamatay",
+        "Hindi mahuli nang buhay",
+        "Ipamana ang kayamanan kay Basilio",
+        "Magtago sa isang lihim na lugar"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang laman ng maleta na dala ni Simoun?",
+      "Answers": [
+        "Mga lihim na dokumento",
+        "Sandata",
+        "Kayamanan na ipinon upang maghiganti",
+        "Lihim ng simbahan"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Paano tumugon si Padre Florentino sa kayamanan ni Simoun?",
+      "Answers": [
+        "Pinanatili ito para sa simbahan",
+        "Ibinalik sa pamilya ni Simoun",
+        "Inilubog sa dagat upang hindi na makapinsala",
+        "Ipinamahagi sa mga mahihirap"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang aral na ibinigay ni Padre Florentino tungkol sa kayamanan ni Simoun?",
+      "Answers": [
+        "Ang yaman ay sukatan ng tagumpay",
+        "Ang tunay na yaman ay nasa kabutihang-loob at pananampalataya sa Diyos",
+        "Ang yaman ay kailangan para sa paghihiganti",
+        "Ang kayamanan ay dapat ipon para sa pamilya"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang ipinapakita ng pagtatapon ng maleta sa dagat?",
+      "Answers": [
+        "Ang pagtatapos ng paghihiganti ni Simoun",
+        "Ang pagtatagumpay ng kayamanan",
+        "Ang muling paglabas ni Simoun sa lipunan",
+        "Ang pagbabalik ng kayamanan sa may-ari"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang hiling ni Padre Florentino para sa mga kabataan ng bayan?",
+      "Answers": [
+        "Maging mas mayaman kaysa sa kanilang mga magulang",
+        "Magtaglay ng lakas at tapang, at magdala ng tunay na pagbabago",
+        "Matutunan ang lihim ng kayamanan",
+        "Magtayo ng negosyo sa bayan"
+      ],
+      "CorrectAnswers": 1
+    }
+  ]
+}

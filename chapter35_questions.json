@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "Question": "Ano ang bitbit ni Simoun nang pumanaog siya sa sasakyan?",
+      "Answers": [
+        "Liham",
+        "Lampara ng kamatayan",
+        "Baril",
+        "Regalo para kay Basilio"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Bakit napilitan si Simoun na bumalik sa kanyang sasakyan?",
+      "Answers": [
+        "Nahuli siya ng Basilio",
+        "Pinigil siya ng guwardiya sa pinto dahil sa kanyang payak at dukhang anyo",
+        "Nawala ang lampara",
+        "Nag-aksaya siya ng oras"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang ipinaalam ni Basilio kay Isagani tungkol sa bahay ni Kapitan Tiago?",
+      "Answers": [
+        "May handaan at kasiyahan",
+        "Puno ng pulbura at sasabog",
+        "Nandiyan ang lampara ng kasal",
+        "May lihim na sulat"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang reaksyon ni Isagani sa babala ni Basilio?",
+      "Answers": [
+        "Tumakas",
+        "Ayaw niyang lumikas, gusto niyang makita si Simoun sa huling sandali",
+        "Humingi ng tulong sa Kapitan Heneral",
+        "Sinunog ang lampara"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang nangyari sa lampara sa huling sandali?",
+      "Answers": [
+        "Sumabog at pumatay ng lahat",
+        "Inihagis sa ilog ng isang anino at nailigtas ang lahat",
+        "Nasunog sa loob ng bahay",
+        "Nawala sa asotea"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang kultural na aspeto na makikita sa kabanatang ito?",
+      "Answers": [
+        "Pagdiriwang ng pista sa Maynila bilang sentro ng lipunang mayaman, kasama ang Kapitan Heneral, mga prayle, at prominenteng mga panauhin",
+        "Pag-aaral ng agham",
+        "Paglalarawan ng kalupitan sa mga estudyante",
+        "Pagtuturo ng relihiyon sa lansangan"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang ibig sabihin ng \"Mane, Thecel, Phares\" sa konteksto ng kabanata?",
+      "Answers": [
+        "Babala sa tiyak na kamatayan",
+        "Isang biro lamang ni Don Custodio",
+        "Kodigo para sa himagsikan",
+        "Pamagat ng lampara"
+      ],
+      "CorrectAnswers": 1
+    }
+  ]
+}

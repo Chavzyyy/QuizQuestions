@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "Question": "Sino ang pinili ni Kapitan Tiago bilang albacea ng kanyang huling habilin?",
+      "Answers": [
+        "Basilio",
+        "Padre Salvi",
+        "Padre Irene",
+        "Isagani"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Saan iniwan ni Kapitan Tiago ang malaking bahagi ng kanyang ari-arian?",
+      "Answers": [
+        "Kay Basilio lamang",
+        "Sa mga estudyante",
+        "Sa Sta. Clara, sa Papa, sa arsobispo, at sa mga korporasyon ng mga prayle",
+        "Sa mga kaibigan at kapitbahay"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Bakit pinawalang-bisa ang dalawampu’t limang piso na para kay Basilio?",
+      "Answers": [
+        "Hindi ito napamahagi",
+        "Pinili ni Basilio na ibalik",
+        "Dahil sa masamang asal ng binata sa mga huling araw",
+        "Ginamit na ni Kapitan Tiago sa iba"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang sinasabi ng iba tungkol sa kaluluwa ni Kapitan Tiago?",
+      "Answers": [
+        "Naparito sa langit agad",
+        "Naligtas ng Diyos dahil sa pamisa at pamana sa simbahan",
+        "Hindi na naligtas",
+        "Naging espiritu sa bahay ng yumaong Kapitan"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Paano inilalarawan ang anyo ni Kapitan Tiago sa kanyang pagkamatay?",
+      "Answers": [
+        "Naka-upo at nakangiti",
+        "Tulog at payapa",
+        "Nakatayo at hawak ang baston",
+        "Naka-prak, nakaumbok ang pisngi sa pagnganga, hawak ang kuwako at manok na panabong"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ilan ang prayle na nanguna sa exequias ni Kapitan Tiago?",
+      "Answers": [
+        "Isa",
+        "Dalawa",
+        "Tatlo",
+        "Apat"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang ginawa ni Padre Irene sa seremonya ng exequias na ikinainis ng kapitbahay?",
+      "Answers": [
+        "Nagdasal ng tahimik",
+        "Umawit ng Dies Irae sa tinig na falsetto habang tumutunog ang kampana",
+        "Nagbigay ng sermon",
+        "Nagbasa ng huling habilin"
+      ],
+      "CorrectAnswers": 0
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "Question": "Sino lamang ang hindi pinalaya sa harap ng Kapitan Heneral?",
+      "Answers": [
+        "Tadeo",
+        "Basilio",
+        "Isagani",
+        "Juanito"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang sinabi ni Padre Irene tungkol kay Basilio?",
+      "Answers": [
+        "Isa siyang bayani",
+        "Isa lang siyang dating alila ni Kapitan Tiago",
+        "Isa siyang guro",
+        "Isa siyang prayle"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang dahilan ng Kapitan Heneral kung bakit hindi niya pinapalaya si Basilio?",
+      "Answers": [
+        "Para maging halimbawa at katakutan ang iba sa batas",
+        "Para turuan si Basilio",
+        "Para maging guro sa mga bata",
+        "Para maglingkod sa simbahan"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang sinabi ng Mataas na Kawani tungkol sa pananagutan ng Kapitan Heneral?",
+      "Answers": [
+        "Hindi siya natatakot sa batas",
+        "Hindi siya inihalal ng mga Pilipino kundi ng Espanya, at dapat panindigan ang pangako ng katarungan",
+        "Maganda ang ginagawa ng Kapitan Heneral",
+        "Walang dapat ipag-alala ang mga tao"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang ipinapakita ng Mataas na Kawani sa kanyang paninindigan?",
+      "Answers": [
+        "Nais niyang yumaman",
+        "Mas pipiliin niyang mamatay para sa mga api kaysa magtagumpay kasama ang mga sakim",
+        "Nais niyang maging Heneral",
+        "Nais niyang tumakas sa Espanya"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang sinabi ng Mataas na Kawani sa alilang Indio habang nasa karwahe?",
+      "Answers": [
+        "Alalahanin ninyo, may mga puso sa Espanya na tumibok para sa inyo",
+        "Tumakbo kayo mula sa Espanya",
+        "Mag-aral kayo sa Maynila",
+        "Sumama kayo sa akin"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang ginawa ng Mataas na Kawani pagkatapos ng pagpupulong sa Kapitan Heneral?",
+      "Answers": [
+        "Nagturo sa mga estudyante",
+        "Naghain ng pagbibitiw at babalik sa Espanya sa unang koreong aalis",
+        "Tumakas kasama si Basilio",
+        "Nagplano ng himagsik"
+      ],
+      "CorrectAnswers": 0
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "Question": "Bakit hindi pumunta si Basilio sa teatro?",
+      "Answers": [
+        "Wala siyang tiket",
+        "Nanatili siya sa bahay ni Kapitan Tiago upang alagaan ito",
+        "Natutulog siya",
+        "Nais niyang manood sa ibang lugar"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang kalagayan ni Kapitan Tiago ayon kay Basilio?",
+      "Answers": [
+        "Malusog at masaya",
+        "Nakalatan ng lasong apyan at maaaring mamatay",
+        "Nasa ospital",
+        "Lumalakad sa paligid"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang sinabi ni Simoun tungkol sa hinaharap ng Pilipinas?",
+      "Answers": [
+        "Mananatiling payapa",
+        "Katulad ng Pilipinas—magkakaroon ng himagsikan",
+        "Magkakaroon ng bagong paaralan",
+        "Walang pagbabago"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang ipinapagawa ni Simoun kay Basilio?",
+      "Answers": [
+        "Mag-aral ng medisina",
+        "Iligtas si Maria Clara mula sa kumbento",
+        "Umalis sa Maynila",
+        "Magtayo ng paaralan"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang balita ni Basilio tungkol kay Maria Clara?",
+      "Answers": [
+        "Buhay pa siya",
+        "Patay na siya",
+        "Nawala siya",
+        "Nasa ospital siya"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang dahilan ng kamatayan ni Maria Clara ayon kay Basilio?",
+      "Answers": [
+        "Nasugatan sa aksidente",
+        "Sakit at labis na paggamit ng apyan",
+        "Inatake ng hayop",
+        "Gutom at uhaw"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang reaksyon ni Basilio matapos marinig ang yabag at pagsara ng pinto sa ibaba?",
+      "Answers": [
+        "Natulog siya",
+        "Tumindig siya, namumutla at nanginginig",
+        "Tumawa siya",
+        "Umalis siya sa bahay"
+      ],
+      "CorrectAnswers": 0
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "Question": "Ano ang naging epekto ng mga paskin sa mga estudyante?",
+      "Answers": [
+        "Lahat ay nakapasa sa pagsusulit",
+        "Bumagsak ang marami at ang iba ay huminto",
+        "Lahat ay lumipat sa ibang paaralan",
+        "Walang nangyari"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Sino lamang ang lubos na nakapasa sa pagsusulit?",
+      "Answers": [
+        "Isagani",
+        "Sandoval",
+        "Basilio",
+        "Macaraig"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang ginawa ni Macaraig upang makaligtas sa kaguluhan?",
+      "Answers": [
+        "Nagtayo ng paaralan",
+        "Nakakuha ng pasaporte at sumakay ng bapor papuntang Europa",
+        "Nagtago sa bahay ni Simoun",
+        "Lumipat sa lalawigan"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang nangyari kay Basilio sa kabanatang ito?",
+      "Answers": [
+        "Nakapasa siya sa lahat ng asignatura",
+        "Hindi pumasa at nanatili sa piitan",
+        "Nakaligtas at pumunta sa Europa",
+        "Nagpakasal"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang layunin ni Simoun sa pagpapalawig ng panunungkulan ng Kapitan Heneral?",
+      "Answers": [
+        "Para maging bayani",
+        "Para magtagal sa Pilipinas at gumawa ng paraan upang magkaroon ng kaguluhan",
+        "Para magturo sa mga estudyante",
+        "Para tumulong sa mahihirap"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang sinabi tungkol kay Paulita matapos ang kaguluhan at pagkabilanggo ni Isagani?",
+      "Answers": [
+        "Magpapakasal siya kay Isagani",
+        "Magpapakasal siya kay Juanito Pelaez at wala nang damdamin kay Isagani",
+        "Magtatagal siya sa Europa",
+        "Magpapakasal sa isang probinsiyano"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang kultural na aspeto na makikita sa kabanatang ito?",
+      "Answers": [
+        "Ang pagpapahalaga sa yaman at lipunan bilang sukatan ng katayuan",
+        "Ang pagtuturo ng wikang Kastila",
+        "Ang pamana sa simbahan",
+        "Pagdiriwang ng pista sa baryo"
+      ],
+      "CorrectAnswers": 0
+    }
+  ]
+}

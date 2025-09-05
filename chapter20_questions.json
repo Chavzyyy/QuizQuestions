@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "Question": "Sino si Don Custodio?",
+      "Answers": [
+        "Isang guro sa Ateneo",
+        "Isang tanyag na tao sa Maynila na kilala sa kasipagan at katalinuhan",
+        "Isang prayle",
+        "Isang mang-aawit"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Paano nakatulong ang asawa ni Don Custodio sa kanyang tagumpay?",
+      "Answers": [
+        "Nag-aral siya ng mabuti sa Madrid",
+        "Nagbigay siya ng magandang sangkap sa kanyang negosyo",
+        "Mula sa mayamang angkan ang kanyang asawa, kaya siya ay naging matagumpay sa negosyo at gobyerno",
+        "Siya ay nagturo sa kanya ng Kastila"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Bakit nagpunta si Don Custodio sa Madrid?",
+      "Answers": [
+        "Upang mag-aral",
+        "Upang magpagamot sa atay",
+        "Upang mamasyal",
+        "Upang makipagnegosyo"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang karanasan ni Don Custodio sa Madrid?",
+      "Answers": [
+        "Nakilala siya ng maraming tao",
+        "Hindi siya pinansin at naranasan ang pakiramdam ng pagiging maliit at walang halaga",
+        "Naging gobernador siya",
+        "Nakapagtayo siya ng negosyo"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang dahilan ng mababang kalagayan ni Don Custodio sa Madrid?",
+      "Answers": [
+        "Kakulangan sa pera",
+        "Kakulangan sa edukasyon",
+        "Kakulangan sa koneksyon",
+        "Kakulangan sa karisma"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang ipinapakita ni Don Custodio sa kanyang pagbabalik sa Maynila?",
+      "Answers": [
+        "Ang kanyang bagong negosyo",
+        "Ang kanyang mga karanasan sa Madrid at mga kilalang tao doon",
+        "Ang kanyang kasipagan sa pagtuturo",
+        "Ang kanyang koleksyon ng sining"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang ibig sabihin ng pahayag ni Don Custodio: “Ako’y lumalagay na parang ama at tagapagtanggol, ngunit kinakailangang ang bawat bagay ay malagay sa tamang lugar”?",
+      "Answers": [
+        "Siya ay masayahin",
+        "Siya ay nagmamalasakit sa kaayusan at pamamahala",
+        "Siya ay tamad",
+        "Siya ay mahilig sa laro"
+      ],
+      "CorrectAnswers": 0
+    }
+  ]
+}

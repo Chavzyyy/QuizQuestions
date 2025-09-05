@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "Question": "Ano ang itatanghal sa Teatro de Variedades gabing iyon?",
+      "Answers": [
+        "Isang dulang Kastila",
+        "Operetang Pranses na Les Cloches de Corneville",
+        "Saynete ni Ben-Zayb",
+        "Opera ni Padre Salvi"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Sino ang hindi nakabili ng tiket para sa pagtatanghal?",
+      "Answers": [
+        "Don Custodio",
+        "Camaroncocido",
+        "Padre Salvi",
+        "Simoun"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang nangyari sa pila sa takilya bago mag-ikalawa ng gabi?",
+      "Answers": [
+        "Lahat ay maayos",
+        "Nagkaroon ng gulo at tumataas ang presyo ng mga upuan",
+        "Naubos ang mga tiket agad",
+        "Nagkaroon ng sunog"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang damdamin ni Camaroncocido sa gulo sa teatro?",
+      "Answers": [
+        "Natutuwa siya",
+        "Hindi siya natuwa",
+        "Naging masaya siya",
+        "Wala siyang pakialam"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang katayuan ni Camaroncocido?",
+      "Answers": [
+        "Anak ng mahirap na pamilya",
+        "Anak ng tanyag na angkang Kastila ngunit nabubuhay na parang hampaslupa",
+        "Anak ng prayle",
+        "Anak ni Don Custodio"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Sino ang kausap ni Camaroncocido sa simula ng kabanata?",
+      "Answers": [
+        "Don Custodio",
+        "Kiko",
+        "Ben-Zayb",
+        "Simoun"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang ipinahayag ni Camaroncocido tungkol sa dagsa ng mga tao?",
+      "Answers": [
+        "Kagagawan ng gobyerno",
+        "Kagagawan ng mga prayle",
+        "Kagagawan ng Don Custodio",
+        "Kagagawan ng teatro"
+      ],
+      "CorrectAnswers": 0
+    }
+  ]
+}

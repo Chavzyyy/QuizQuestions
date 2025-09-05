@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "Question": "Saan isinagawa ang piging ng mga estudyante?",
+      "Answers": [
+        "Teatro de Variedades",
+        "Panciteria Macanista de Buen Gusto",
+        "Paseo de Maria Cristina",
+        "Kumbento ng Sta. Clara"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ilan ang nagdiwang ng desisyong pabor sa pagtuturo ng wikang Kastila?",
+      "Answers": [
+        "Sampu",
+        "Labing-apat",
+        "Dalawampu",
+        "Labing-anim"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang tinawag ni Macaraig sa sopas na inihain?",
+      "Answers": [
+        "Pansit-langlang",
+        "Panukalang sopas",
+        "Tortang prayle",
+        "Lumpiyang-Tsino"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Para kanino inialay ang lumpiyang-Tsino?",
+      "Answers": [
+        "Padre Irene",
+        "Don Custodio",
+        "Pecson",
+        "Simoun"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Sino ang inatasan na magtalumpati sa piging?",
+      "Answers": [
+        "Pecson",
+        "Tadeo",
+        "Sandoval",
+        "Macaraig"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang nakita ng mga estudyante sa pintuan habang nagtalumpati si Pecson?",
+      "Answers": [
+        "Isang batang palinga-linga",
+        "Si Simoun",
+        "Si Tadeo",
+        "Ang Heneral"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang reaksyon ni Macaraig sa batang sumakay sa karwahe ni Simoun?",
+      "Answers": [
+        "Nagalit siya",
+        "Tuwang-tuwa",
+        "Sinabi niyang “Alipin ng Vice-Rector sa Amo ng Heneral!”",
+        "Hindi siya nakapansin"
+      ],
+      "CorrectAnswers": 0
+    }
+  ]
+}
