@@ -1,3 +1,74 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "Question": "Ano ang paksa ng usapan nina Kapitan Basilio, Basilio, at Isagani sa ilalim ng kubyerta?",
+      "Answers": [
+        "Pagpapagawa ng bagong bapor",
+        "Plano tungkol sa Akademya ng Wikang Kastila",
+        "Pag-angkat ng mga kalakal mula Tsina",
+        "Pagpapalawak ng lupain sa Laguna"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang ginawang hakbang ng mga estudyante upang makuha ang pahintulot para sa Akademya ng Wikang Kastila?",
+      "Answers": [
+        "Nagsagawa ng pag-aalsa laban sa mga prayle",
+        "Nangolekta ng pirma sa mga mag-aaral",
+        "Niregaluhan si Padre Irene ng mamahaling kabayo",
+        "Humiling ng tulong kay Kapitan Basilio"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang iniaalok ni Macaraig para sa pagtatag ng Akademya?",
+      "Answers": [
+        "Mga aklat at kagamitan sa pag-aaral",
+        "Pondo para sa mga guro",
+        "Isa sa kanyang mga bahay",
+        "Libreng serbisyo ng kanyang mga tauhan"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang sinabi ni Kapitan Basilio tungkol sa pag-aaral ng Wikang Kastila kapalit ng Latin?",
+      "Answers": [
+        "Ipinakita ang pag-unlad ng edukasyon sa Pilipinas",
+        "Ipinakita ang paglakas ng pambansang kultura",
+        "Isang magandang karanasan para sa lahat ng estudyante",
+        "Wala itong epekto sa kinabukasan ng bayan"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang ipinakita ng pagtanggi nina Basilio at Isagani sa alok ni Simoun na uminom ng serbesa?",
+      "Answers": [
+        "Pagpapakita ng paggalang sa nakatatanda",
+        "Pagpili ng kalayaan kaysa sa kasayahan",
+        "Pagpapahalaga sa sariling dangal at disiplina",
+        "Pag-iwas sa pakikisalamuhang kasama ang mga Kastila"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang kulturang Pilipino na mababanaag sa pahayag ni Isagani na 'hindi bumibili ng alahas sapagkat hindi naman kailangan'?",
+      "Answers": [
+        "Pagmamalasakit sa edukasyon",
+        "Pagpapakita ng relihiyosong pananampalataya",
+        "Pagpapahalaga sa pagiging praktikal kaysa luho",
+        "Pagiging masayahin kahit sa kahirapan"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang ipinapakita ng paglalarawan kay Simoun bilang taong pinupuri kapag kaharap at minumura kapag nakatalikod?",
+      "Answers": [
+        "Ang pagkakaroon ng takot sa banyaga",
+        "Ang pagkamuhi at pakitang-tao sa lipunang kolonyal",
+        "Ang matatag na pagkakaisa ng mga Pilipino",
+        "Ang malasakit ng mga Pilipino sa pamahalaan"
+      ],
+      "CorrectAnswers": 1
+    }
+  ]
 }
