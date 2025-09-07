@@ -1,3 +1,74 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "Question": "Ano ang nagpagising kay Basilio sa madaling araw?",
+      "Answers": [
+        "Ingay ng mga tao sa bayan",
+        "Huni ng mga ibon sa gubat",
+        "Ripeke ng kampana para sa Misa de Gallo",
+        "Tawag ng kanyang ama"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Saan nagtungo si Basilio matapos bumaba ng bahay nang palihim?",
+      "Answers": [
+        "Sa simbahan ng San Diego",
+        "Sa gubat na kinaroroonan ng kanyang ina",
+        "Sa bahay ni Kapitan Tiago",
+        "Sa Ateneo Municipal"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang puno na nasa tabi ng libingan ng ina ni Basilio?",
+      "Answers": [
+        "Narra",
+        "Acacia",
+        "Balete",
+        "Mangga"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang ginawa ni Basilio matapos mamatay ang kanyang ina?",
+      "Answers": [
+        "Tumakas papuntang Espanya",
+        "Naging kutsero sa San Diego",
+        "Nilisan ang San Diego upang magpaalila at makapag-aral sa Maynila",
+        "Sumama sa mga tulisan"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Paano natulungan si Basilio na makapagpatuloy ng pag-aaral?",
+      "Answers": [
+        "Tinulungan ng mga prayle",
+        "Kinupkop at pinayagang mag-aral ni Kapitan Tiago",
+        "Tinulungan ng kanyang mga kamag-anak",
+        "Naging iskolar ng pamahalaan"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang ipinakita ng pagtatapos ni Basilio na may markang sobresaliente at medalya sa kabila ng pang-aalipusta?",
+      "Answers": [
+        "Pagiging mahiyain",
+        "Pagiging maswerteng mag-aaral",
+        "Pagsusumikap at determinasyon ng mga Pilipino sa edukasyon",
+        "Pag-asa lamang sa tulong ng mayayaman"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Saan siya nagpatuloy ng pag-aaral matapos ang San Juan de Letran?",
+      "Answers": [
+        "Unibersidad ng Santo Tomas",
+        "Colegio de San Jose",
+        "Ateneo Municipal",
+        "San Beda"
+      ],
+      "CorrectAnswers": 0
+    }
+  ]
 }
