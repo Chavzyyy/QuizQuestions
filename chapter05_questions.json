@@ -1,3 +1,74 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "Question": "Bakit naantala ang pagdating ni Basilio sa San Diego?",
+      "Answers": [
+        "Dahil nasiraan ng karwahe",
+        "Dahil hinarang ng guwardiya sibil ang kanilang karwahe",
+        "Dahil naligaw ang kutsero",
+        "Dahil bumagyo sa daan"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang naging dahilan ng pagpaparusa sa kutsero ng guwardiya sibil?",
+      "Answers": [
+        "Dahil wala siyang sapatos",
+        "Dahil wala siyang dalang sedula",
+        "Dahil nakatulog siya sa daan",
+        "Dahil hindi niya kilala si Basilio"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang parusa na iginawad sa kutsero nang walang maipakitang sedula?",
+      "Answers": [
+        "Pinagmulta siya ng limang piso",
+        "Kinulata siya ng guwardiya sibil",
+        "Pinalayas siya mula sa bayan",
+        "Pinakain siya ng maduming pagkain"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang ikalawang dahilan kung bakit muling pinatigil ang karwahe?",
+      "Answers": [
+        "Dahil may kasamang Indio si Basilio",
+        "Dahil hindi marunong magmaneho ang kutsero",
+        "Dahil walang ilaw ang karwahe, labag sa batas",
+        "Dahil nahulog ang gulong"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang nangyari sa kutsero matapos ang ikalawang paglabag?",
+      "Answers": [
+        "Pinatwad siya ng guwardiya",
+        "Dinakip at ikinulong siya",
+        "Pinauwi siya sa kanilang baryo",
+        "Pinabanayan siyang maglakad pauwi"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang balitang ibinalita ng katiwala kay Basilio pagdating niya sa bahay ni Kapitan Tiago?",
+      "Answers": [
+        "Na-promote si Tano bilang opisyal",
+        "Umalis si Simoun patungong Maynila",
+        "Dinakip si Kabesang Tales",
+        "Nagkasakit si Tandang Selo"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang ipinakita ng pagkawala ng gana ni Basilio sa pagkain matapos marinig ang balita tungkol kay Kabesang Tales?",
+      "Answers": [
+        "Pagiging mahina ang katawan",
+        "Pagpapahalaga sa pamilya at malasakit sa kapwa",
+        "Pagiging tamad sa pagkain",
+        "Pagdanas ng guwardiya sibil"
+      ],
+      "CorrectAnswers": 1
+    }
+  ]
 }
