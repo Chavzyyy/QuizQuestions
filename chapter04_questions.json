@@ -1,3 +1,74 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "Question": "Ano ang trabaho ni Kabesang Tales bago niya sinaka ang lupaing inakalang walang may-ari?",
+      "Answers": [
+        "Magsasaka",
+        "Mangangahoy",
+        "Mangangalakal",
+        "Guro"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Bakit pinayuhan ni Tandang Selo ang anak na tiisin na lamang ang buwis na singil ng mga prayle?",
+      "Answers": [
+        "Dahil madaling bayaran ang buwis",
+        "Dahil para lang itong natalo sa sugal o sinakmal ng buwaya",
+        "Dahil naniniwala siyang may milagro",
+        "Dahil mayaman ang kanilang pamilya"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang naging bunga ng pagkahirang kay Kabesang Tales bilang cabeza de barangay?",
+      "Answers": [
+        "Nagkaroon siya ng mas malaking lupa",
+        "Naging magastos at naubos ang kanyang pera at oras",
+        "Naging malaya siya mula sa buwis",
+        "Lumipat sila sa Maynila"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang kultural na pagpapahalaga na mababanaag sa sinabi ni Kabesang Tales: 'Walang saplot tayong isinilang. Sa alabok din tayo babalik.'",
+      "Answers": [
+        "Pagiging masayahin ng mga Pilipino",
+        "Pananalampalataya at pagtanggap sa kapalaran",
+        "Pagpapahalaga sa pamahalaan",
+        "Pagtiwala sa sariling lipunan"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang nangyari sa anak ni Kabesang Tales na si Tano?",
+      "Answers": [
+        "Siya'y nakapag-aral sa Maynila",
+        "Napilitang maging sundalo",
+        "Nagtago sa gubat kasama si Tandang Selo",
+        "Naging cabeza de barangay rin"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang ipinakita ng sakripisyong ginawa ni Juli upang matubos ang kanyang ama?",
+      "Answers": [
+        "Pagiging makasarili para sa sariling kaligtasan",
+        "Pagpapahalaga sa karangalan kaysa dangal",
+        "Pagpapahalaga sa pamilya higit sa sarili",
+        "Pagmamalasakit sa kanya sa sariling gawa"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang karaniwang kulturang Pilipino na makikita sa karanasan ni Kabesang Tales laban sa mga prayle at pamahalaan?",
+      "Answers": [
+        "Pagiging mabilis magtampo",
+        "Pagsusumakit at paglaban para sa sariling karapatan kahit sa kabila ng pang-aapi",
+        "Pagiging kuntento sa sariling kalagayan",
+        "Pag-asa lamang sa mga milagro"
+      ],
+      "CorrectAnswers": 1
+    }
+  ]
 }
