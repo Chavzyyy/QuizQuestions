@@ -1,3 +1,74 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "Question": "Ano ang hinahanap ni Simoun sa halip na tanawin?",
+      "Answers": [
+        "Kayamanan",
+        "Alamat",
+        "Milagro",
+        "Kasaysayan"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang kuwento ni Padre Florentino tungkol kay Donya Geronima?",
+      "Answers": [
+        "Isang dalagang iniwan at namatay sa dagat",
+        "Isang dalagang naging madre matapos lokohin",
+        "Isang dalagang naghintay sa pangakong kasal, ngunit nagtago sa kweba nang hindi tinupad",
+        "Isang dalagang naging bato sa tabi ng ilog"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang suhestiyon ni Simoun na mas mainam sanang ginawa kay Donya Geronima?",
+      "Answers": [
+        "Pinakasalan ng arsobispo",
+        "Ikinulong sa beateriyo",
+        "Inilagay sa palasyo",
+        "Ipinadala sa Espanya"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang milagro na ikinuwento ni Padre Salvi?",
+      "Answers": [
+        "Isang dalaga ang naging bato",
+        "Isang madre ang nagpakita sa lawa",
+        "Isang buwaya ang naging bato matapos ipanalangin kay San Nicolas",
+        "Isang bundok ang nabiyak sa isang sigaw"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang reaksyon ni Ben-Zayb sa milagro ng buwaya?",
+      "Answers": [
+        "Hindi siya naniwala",
+        "Natatakot siya at tumakbo",
+        "Namangha at nais isulat sa pahayagan",
+        "Ipinagtawanan lamang niya"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang kulturang Pilipino na mababanaag sa mga kuwentong alamat at milagro?",
+      "Answers": [
+        "Pagiging masayahin ng mga Pilipino",
+        "Pag-ibig sa makabagong agham",
+        "Paniniwala sa relihiyon at kahalagahan ng pananampalataya",
+        "Pagpapahalaga sa negosyo at kalakalan"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang ipinapahiwatig ng pananahimik ni Simoun habang nakatanaw sa malayo?",
+      "Answers": [
+        "Nais niyang makisalamuha sa iba",
+        "Mayroon siyang malalim na iniisip at lihim na motibo",
+        "Masama ang kanyang pakiramdam dahil sa biyahe",
+        "Wala siyang pakialam sa paligid"
+      ],
+      "CorrectAnswers": 1
+    }
+  ]
 }
