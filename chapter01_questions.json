@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "Question": "Ano ang simbolismo ng Bapor Tabo sa akdang ito?",
+      "Answers": [
+        "Ang mabilis na pag-unlad ng bansa",
+        "Ang mabagal at mabigat na sistema sa lipunan",
+        "Ang kagandahan ng ilog Pasig",
+        "Ang pagkakaisa ng mga prayle at mga Pilipino"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang mungkahi ni Simoun upang mapabuti ang daloy ng tubig sa Maynila?",
+      "Answers": [
+        "Magtanim ng mga puno sa tabing-ilog",
+        "Humukay ng kanal at tabunan ang Pasig",
+        "Gumawa ng bagong daungan sa Laguna",
+        "Magtayo ng mga tulay sa ilog"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Bakit tumutol si Don Custodio sa mungkahi ni Simoun?",
+      "Answers": [
+        "Dahil wala itong silbi sa bayan",
+        "Dahil makasisira ito sa kalakalan",
+        "Dahil magastos at makasisira sa bayan",
+        "Dahil nais niyang siya ang makilala bilang bayani"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang iminungkahi ni Don Custodio upang ilihis ang usapan?",
+      "Answers": [
+        "Pagpaparami ng isda sa ilog",
+        "Pagpaparami ng pato sa Laguna",
+        "Pagpapagawa ng tulay",
+        "Pagpapagawa ng bagong barko"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang reaksyon ni Donya Victorina sa ideya ng pagpaparami ng pato?",
+      "Answers": [
+        "Mas marami raw balot ang malilikha",
+        "Magiging malinis ang wawa",
+        "Mas mapapaganda ang kalakalan",
+        "Mas mapapadali ang biyahe sa Pasig"
+      ],
+      "CorrectAnswers": 0
+    },
+    {
+      "Question": "Ano ang kulturang Pilipino na mababanaag sa pahayag ni Donya Victorina tungkol sa balot?",
+      "Answers": [
+        "Ang pagpapahalaga sa kalayaan",
+        "Ang pagkaing sagisag ng pagka-Pilipino",
+        "Ang pagkahilig sa mga banyagang ideya",
+        "Ang pagiging relihiyoso ng mga Pilipino"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang ipinapakita ng pagtutol nina Don Custodio at Padre Salvi sa mungkahi ni Simoun?",
+      "Answers": [
+        "Pagkakaisa ng mga prayle at Pilipino",
+        "Pagkatakot sa pag-aalsa ng bayan",
+        "Pagkiling sa makabagong ideya",
+        "Pagtatanggol sa kalayaan ng mga bilanggo"
+      ],
+      "CorrectAnswers": 1
+    }
+  ]
+}
