@@ -1,3 +1,74 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "Question": "Ano ang ginagawa ni Simoun nang makita siya ni Basilio sa gubat?",
+      "Answers": [
+        "Naghahanap ng kayamanan",
+        "Naghuhukay gamit ang asarol",
+        "Nagtatago mula sa guwardiya sibil",
+        "Nagnonobena sa tabi ng balete"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang reaksyon ni Simoun nang lumapit si Basilio at nag-alok ng tulong?",
+      "Answers": [
+        "Tinanggap niya agad ang tulong",
+        "Pinagpalayas niya si Basilio",
+        "Itinutok ang kanyang rebolber kay Basilio",
+        "Binale-wala niya si Basilio"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang inamin ni Basilio tungkol sa kanyang kaalaman kay Simoun?",
+      "Answers": [
+        "Na isa siyang guro mula sa Maynila",
+        "Na isa siyang prayle na nagtatago",
+        "Na isa siyang dakilang tao na inakalang patay ng lahat, maliban sa kanya",
+        "Na isa siyang tulisan sa bundok"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang layunin ni Simoun sa loob ng 13 taon ng kanyang pagpapayaman?",
+      "Answers": [
+        "Magtayo ng paaralan para sa kabataan",
+        "Ibagsak ang masamang pamahalaan kahit dumanak ng dugo",
+        "Makapagtatag ng negosyo sa Maynila",
+        "Tulungan ang mga prayle sa simbahan"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang babala ni Simoun tungkol sa paggamit ng wikang Kastila ng kabataan?",
+      "Answers": [
+        "Ito’y magbibigay ng higit na kalayaan",
+        "Ito’y magdudulot ng higit pang pagkaalipin",
+        "Ito’y makakapagpaunlad ng bayan",
+        "Ito’y magpapabuti sa kalakalan"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang naging tugon ni Basilio sa alok ni Simoun na lumaban kasama niya?",
+      "Answers": [
+        "Pumayag siyang sumama agad",
+        "Nagplano siyang magtago muna",
+        "Sinabi niyang nais lamang niyang pagalingin ang mga maysakit",
+        "Ipinakulong niya si Simoun sa mga guwardiya"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang kulturang Pilipino na mababanaag sa pagnanais ni Basilio na maglingkod bilang manggagamot?",
+      "Answers": [
+        "Pagiging masayahin sa kabila ng hirap",
+        "Pagpapahalaga sa malasakit at pagtulong sa kapwa",
+        "Pagiging palaban sa lahat ng oras",
+        "Pag-asa lamang sa mga milagro"
+      ],
+      "CorrectAnswers": 1
+    }
+  ]
 }
