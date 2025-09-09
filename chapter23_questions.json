@@ -8,7 +8,7 @@
         "Natutulog siya",
         "Nais niyang manood sa ibang lugar"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang kalagayan ni Kapitan Tiago ayon kay Basilio?",
@@ -18,7 +18,7 @@
         "Nasa ospital",
         "Lumalakad sa paligid"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang sinabi ni Simoun tungkol sa hinaharap ng Pilipinas?",
@@ -28,7 +28,7 @@
         "Magkakaroon ng bagong paaralan",
         "Walang pagbabago"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang ipinapagawa ni Simoun kay Basilio?",
@@ -38,7 +38,7 @@
         "Umalis sa Maynila",
         "Magtayo ng paaralan"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang balita ni Basilio tungkol kay Maria Clara?",
@@ -48,7 +48,7 @@
         "Nawala siya",
         "Nasa ospital siya"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang dahilan ng kamatayan ni Maria Clara ayon kay Basilio?",
@@ -58,7 +58,7 @@
         "Inatake ng hayop",
         "Gutom at uhaw"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang reaksyon ni Basilio matapos marinig ang yabag at pagsara ng pinto sa ibaba?",
@@ -68,7 +68,7 @@
         "Tumawa siya",
         "Umalis siya sa bahay"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     }
   ]
 }
