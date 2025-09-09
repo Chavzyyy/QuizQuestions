@@ -1,3 +1,74 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "Question": "Ano ang napansin ni Padre Millon sa klase ng Pislika?",
+      "Answers": [
+        "Si Juanito ay sumasagot nang mali-mali",
+        "Si Placido ay palaging nagbabasa ng libro",
+        "May estudyanteng matabang inaantok",
+        "Ang mga estudyante ay masigasig na nakikinig"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Sino ang unang tinawag ni Padre Millon upang sumagot?",
+      "Answers": [
+        "Placido Penitente",
+        "Juanito Pelaez",
+        "Isagani",
+        "Basilio"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang ginawa ni Juanito nang hindi niya alam ang sagot?",
+      "Answers": [
+        "Uminom ng tubig",
+        "Umupo at tumahimik",
+        "Sinenyasan si Placido at palihim na niyapakan siya",
+        "Lumapit sa mesa ng guro"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang itinawag ni Padre Millon kay Placido nang tawagin siya sa klase?",
+      "Answers": [
+        "Placidong Tamad",
+        "Placidong Antukin",
+        "Placidong Bulong",
+        "Placidong Rebulyusyonaryo"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Bakit sinabi ni Padre Millon na may labinlimang liban si Placido?",
+      "Answers": [
+        "Dahil talaga namang palagi siyang lumiliban",
+        "Dahil may reklamo ang kanyang mga kaklase",
+        "Dahil tuwing mahuhuli siya, limang guhit agad ang ibinabawas ni Padre Millon",
+        "Dahil nais lamang siyang parusahan"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang sinabi ni Placido bilang tugon sa maling talaan ng liban?",
+      "Answers": [
+        "Wala siyang pakialam sa marka",
+        "Siya’y may sakit kaya hindi nakapasok",
+        "Dapat ding bawasan ang maling tala dahil hindi makapag-ulat ang wala sa klase",
+        "Siya’y magpapatigil na sa pag-aaral"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang naging reaksyon ni Placido matapos insultuhin ni Padre Millon?",
+      "Answers": [
+        "Umiyak at nakisuyo sa guro",
+        "Umupo na lamang at nagtiis",
+        "Lumapit at nakipagdebate sa guro",
+        "Tumayo at umalis nang walang paalam"
+      ],
+      "CorrectAnswers": 3
+    }
+  ]
 }
