@@ -8,7 +8,7 @@
         "Nakatakas siya",
         "Nag-aral sa Maynila"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Sino ang nagbalita kay Juli tungkol sa pagkakabilanggo ni Basilio?",
@@ -28,7 +28,7 @@
         "Tumakbo sa bayan",
         "Humingi ng tulong sa hukom agad"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Sino ang iniiwasan ni Juli dahil sa nakaraan?",
@@ -38,7 +38,7 @@
         "Padre Camorra",
         "Basilio"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 2
     },
     {
       "Question": "Bakit hindi sapat ang tulong ng dukhang kamag-anak ni Basilio?",
@@ -48,7 +48,7 @@
         "Hindi nila alam ang lugar",
         "Mayroon silang sariling problema"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang payo ng hukom kay Juli?",
@@ -58,7 +58,7 @@
         "Si Padre Camorra ang makakatulong",
         "Humingi ng tulong kay Hermana Bali lamang"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 2
     },
     {
       "Question": "Ano ang ginawa ni Juli upang tulungan si Basilio sa huli?",
@@ -68,7 +68,7 @@
         "Nagpadala ng pera at karne",
         "Nag-ulat sa hukom at umalis"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     }
   ]
 }
