@@ -1,3 +1,74 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "Question": "Ano ang paksa ng pagpupulong ng mga estudyante?",
+      "Answers": [
+        "Pagpapatalisak sa mga prayle",
+        "Pagdarasal para sa kalayaan",
+        "Pagtatatag ng akademyang magtuturo ng Kastila",
+        "Paglikha ng bagong partidong pulitikal"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang pangamba ni Isagani tungkol sa pagtatag ng akademya?",
+      "Answers": [
+        "Baka hindi ito suportahan ng mga prayle",
+        "Baka walang gustong magturo",
+        "Baka masira ang dangal ng paaralan tulad ng sa Malolos",
+        "Baka hindi magbayad ang mga estudyante"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang pananaw ni Estudyante 1?",
+      "Answers": [
+        "Mas mainam na ipagpaliban ang plano",
+        "Sumunod na lang sa pamunuan ng unibersidad",
+        "Ipaglaban ang karapatan ng mga mag-aaral kahit may balakid",
+        "Huwag nang ituloy ang petisyon"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang punto ni Sandoval?",
+      "Answers": [
+        "Hindi na dapat ipagpatuloy ang usapan",
+        "Labanan ang pamahalaan agad",
+        "Bigyan ng pagkakataon ang sistema hangga’t walang malinaw na mali",
+        "Umasa lamang sa mga prayle"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Sino ang nagdala ng magandang balita tungkol sa petisyon?",
+      "Answers": [
+        "Isagani",
+        "Sandoval",
+        "Macaraig",
+        "Simoun"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Kanino ipinasa ang pagpapasya tungkol sa petisyon ng mga estudyante?",
+      "Answers": [
+        "Padre Irene",
+        "Padre Sibyla",
+        "Simoun",
+        "Don Custodio"
+      ],
+      "CorrectAnswers": 3
+    },
+    {
+      "Question": "Ano ang napagkasunduan ng grupo sa paraan ng paglaban para sa kanilang adhikain?",
+      "Answers": [
+        "Gumamit ng impluwensya at pakikisama",
+        "Magprotesta sa harap ng unibersidad",
+        "Gumamit ng marangal at wasto na pamamaraan",
+        "Umasa sa mga prayle para sa suporta"
+      ],
+      "CorrectAnswers": 2
+    }
+  ]
 }
