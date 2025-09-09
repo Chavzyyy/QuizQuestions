@@ -1,3 +1,74 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "Question": "Sino ang dumalaw kay Placido sa bahay-kasera niya?",
+      "Answers": [
+        "Ang kanyang guro",
+        "Ang kanyang ina, si Kabesang Andang",
+        "Si Simoun",
+        "Si Kabesang Tales"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang nais gawin ni Placido matapos mawalan ng gana sa pag-aaral?",
+      "Answers": [
+        "Bumalik sa Malolos",
+        "Maging prayle",
+        "Tumakas patungong Hong Kong upang magpayaman at labanan ang mga prayle",
+        "Magtagyo ng sariling paaralan"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang mungkahi ni Kabesang Andang upang mailbsan ang galit ng mga Dominikano kay Placido?",
+      "Answers": [
+        "Kaibiganin si Simoun",
+        "Magdasal sa simbahan",
+        "Humingi ng tulong sa procurador ng mga Agustino",
+        "Mag-abulo ng pera sa unibersidad"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang sinabi ni Placido bilang tanda ng kanyang matinding pagkadismaya?",
+      "Answers": [
+        "Hindi na ako mag-aaral kailanman!",
+        "Tatalon na muna ako sa dagat o kaya’y manunulisan bago bumalik sa unibersidad.",
+        "Maghihiganti ako sa mga prayle!",
+        "Susuko na lang ako, Inang."
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang pakay ni Placido kay Simoun nang magtagpo sila sa perya?",
+      "Answers": [
+        "Hingin ang tulong para sa kanyang ina",
+        "Mabenta ng kanyang mga gamit",
+        "Mangutang ng loob at magpahayag ng kagustuhang pumunta sa Hong Kong",
+        "Makilisa agad sa rebolusyon"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang binanggit ni Simoun bilang dahilan kung bakit hindi dapat ipagpaliban ang kanilang plano?",
+      "Answers": [
+        "Dahil may kasunduan na sila sa gobyerno",
+        "Dahil maaaring patay na si Maria Clara",
+        "Dahil wala nang pondo para sa paghahanda",
+        "Dahil aalis na siya ng bansa"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang inisip ni Simoun habang siya’y nag-iisa?",
+      "Answers": [
+        "Na sumuko na lamang sa laban",
+        "Na hindi na siya maaaring umurong at tagumpay lamang ang makapagbibigay-katwiran sa kanya",
+        "Na magtungo rin sa Hong Kong",
+        "Na magbalik-loob sa simbahan"
+      ],
+      "CorrectAnswers": 1
+    }
+  ]
 }
