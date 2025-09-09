@@ -1,3 +1,74 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "Question": "Saan ginanap ang pagtatanghal ni Mr. Leeds?",
+      "Answers": [
+        "Sa simbahan ng Quiapo",
+        "Sa isang tindahan ng tau-tauhan",
+        "Sa isang bulwagan na may itim na kurtina at lamparang de-alkohol",
+        "Sa bahay ni Simoun"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang amoy sa paligid habang nagaganap ang palabas?",
+      "Answers": [
+        "Alak at pulbura",
+        "Kamanyang at kandila, tila bahay na may patay",
+        "Usok ng tabako",
+        "Amoy ng bulaklak"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang ginagawa ni Ben-Zayb habang pinagmamasdan ang palabas?",
+      "Answers": [
+        "Nakikipag-usap kay Padre Camorra",
+        "Nakatulog sa pagkabagot",
+        "Nagtutuklas sa mesa upang ibunyag ang mga daya",
+        "Pumalakpak at humanga"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang nilalaman ng kahang nakita ni Mr. Leeds sa piramide?",
+      "Answers": [
+        "Mga gintong hiyas",
+        "Isang lumang espada",
+        "Abo na may nakasulat na mga salita",
+        "Isang anting-anting"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang sinabi ni Mr. Leeds tungkol sa kahon?",
+      "Answers": [
+        "May lamang alamat ng mga Faraon",
+        "May dalawang salita: isang pambuhay at isang pampatay",
+        "May tagong kayamanan ng Persia",
+        "May listahan ng mga hari ng Gresya"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Sino ang lumitaw mula sa abo nang tawagin ni Mr. Leeds?",
+      "Answers": [
+        "Gaumata",
+        "Khufu",
+        "Imuthis",
+        "Amasis"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang ibinunyag ni Imuthis tungkol sa kanyang kamatayan?",
+      "Answers": [
+        "Siya’y nalunod sa Ilog Nilo",
+        "Siya’y pinatay ng mga saserdote ng Ehipto dahil sa kanyang nalaman na lihim",
+        "Siya’y nagpakamatay sa Gresya",
+        "Siya’y nagkasakit sa Persia"
+      ],
+      "CorrectAnswers": 1
+    }
+  ]
 }
