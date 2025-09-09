@@ -8,7 +8,7 @@
         "Padre Salvi",
         "Don Custodio"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang ipinahayag ni Isagani tungkol sa tungkulin ng mga prayle?",
@@ -18,7 +18,7 @@
         "Dapat silang magdiwang ng piyesta",
         "Naglilibang lang sila sa kanilang simbahan"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang paratang ni Isagani tungkol sa ibang prayle?",
@@ -28,7 +28,7 @@
         "Pinapalakas nila ang kabataan sa sayaw",
         "Wala silang pakialam sa edukasyon"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang sinasabi ni Isagani na pinagmumulan ng sama ng loob ng mga Pilipino?",
@@ -38,7 +38,7 @@
         "Pagkakaroon ng teatro",
         "Paglalakbay sa ibang bansa"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ayon kay Padre Fernandez, sino lamang ang karapat-dapat sa karunungan?",
@@ -48,7 +48,7 @@
         "Mga karapat-dapat",
         "Mga prayle lamang"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 2
     },
     {
       "Question": "Ano ang epekto ng 350 taon ng kapangyarihan ng prayle ayon kay Isagani?",
@@ -58,7 +58,7 @@
         "Pagiging biktima ng kasinungalingan at pang-aapi",
         "Paglago ng edukasyon sa lahat"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 2
     },
     {
       "Question": "Ano ang plano ni Isagani pagkatapos makausap si Padre Fernandez?",
@@ -68,7 +68,7 @@
         "Maglakbay sa ibang bansa",
         "Sumali sa teatro"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     }
   ]
 }
