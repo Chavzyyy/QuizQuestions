@@ -8,7 +8,7 @@
         "Sa kumbento",
         "Sa lansangan ng Maynila"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Sino ang isa sa mga panauhin ng pamilya Orenda na kasali sa usapan?",
@@ -18,7 +18,7 @@
         "Juanito Pelaez",
         "Simoun"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang unang hinala ng mga mamamayan tungkol sa naglagay ng pulbura?",
@@ -28,7 +28,7 @@
         "Ang mga Kastila",
         "Ang mga tulisan"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang nangyari sa lampara sa mesa ng Heneral noong gabi ng kaguluhan?",
@@ -38,7 +38,7 @@
         "Namatay ang ilaw",
         "Hindi nagamit"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 2
     },
     {
       "Question": "Ano ang ginawa ng magnanakaw sa lampara?",
@@ -48,7 +48,7 @@
         "Sinabog sa mesa ng Heneral",
         "Hindi alam ng sinuman"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang reaksiyon ni Isagani tungkol sa ginawa ng magnanakaw?",
@@ -58,7 +58,7 @@
         "Wala siyang pakialam",
         "Sinabi niyang nagawa na lang niya iyon"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang ginawa ni Isagani pagkatapos ng insidente?",
@@ -68,7 +68,7 @@
         "Nagpaalam sa mga Orenda at umuwi sa lalawigan upang manirahan sa piling ng kanyang amain",
         "Nagsimula ng bagong balak"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 2
     }
   ]
 }
