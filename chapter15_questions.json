@@ -1,3 +1,74 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "Question": "Ano ang layunin ni Isagani sa pagdalaw kay G. Pasta?",
+      "Answers": [
+        "Hingin ang payo tungkol sa medisina",
+        "Humingi ng suporta para sa paaralang magtuturo ng Kastila",
+        "Magpatulong sa sariling problema sa pamilya",
+        "Magpatulong na magreklamo laban sa mga prayle"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang reaksyon ni G. Pasta sa panukala ni Isagani?",
+      "Answers": [
+        "Buong pusong sinang-ayunan",
+        "Walang pakialam",
+        "Tinawag itong masamang ideya",
+        "Hinikayat niyang ipaglaban ito agad"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Anong dahilan ang ibinigay ni G. Pasta kung bakit hindi madaling isakatuparan ang hiling ng mga estudyante?",
+      "Answers": [
+        "Wala silang sapat na pondo",
+        "Ayaw ng mga prayle",
+        "Masalimuot at maselan ang usapin ng pagbabago",
+        "Wala silang guro na bihasa sa Kastila"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang ipinunto ni Isagani laban sa argumento ni G. Pasta?",
+      "Answers": [
+        "Hindi lahat ay gustong mag-Kastila",
+        "Walang silbi ang akademya",
+        "Hindi lahat ng kabataan ay may pribilehiyong tulad ni G. Pasta",
+        "Dapat sundin ang pamahalaan sa lahat ng bagay"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang paniniwala ni G. Pasta tungkol sa pangangailangan ng bayan?",
+      "Answers": [
+        "Mas maraming orador at mambabatas",
+        "Mas maraming guro ng Kastila",
+        "Mas maraming magsasaka at manggagawa",
+        "Mas maraming estudyanteng mag-aaral abroad"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang payo ni G. Pasta kay Isagani tungkol sa kanyang personal na buhay?",
+      "Answers": [
+        "Magtayo ng sariling paaralan",
+        "Magpakadalubhasa sa medisina at mag-asawa ng mayamang dalaga",
+        "Magtungo sa Madrid at doon mag-aral",
+        "Ipagpatuloy ang pakikipaglaban sa bayan"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang naging tugon ni Isagani sa huling payo ni G. Pasta?",
+      "Answers": [
+        "Susundin niya ang sinabi ng abogado",
+        "Mananahimik na lamang siya",
+        "Uurong muna siya sa laban",
+        "Ang kanyang mga uban balang araw ay magiging tanda ng pagkukulang kung hindi siya makapaglilingkod sa bayan"
+      ],
+      "CorrectAnswers": 3
+    }
+  ]
 }
