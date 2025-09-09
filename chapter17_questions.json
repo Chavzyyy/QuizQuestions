@@ -1,3 +1,74 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "Question": "Sino ang mga magkakasamang naglalakad sa Quiapo?",
+      "Answers": [
+        "Padre Irene, Simoun, Ben-Zayb",
+        "Padre Sibyla, Padre Camorra, Isagani",
+        "Padre Camorra, Padre Salvi, Ben-Zayb",
+        "Padre Fernandez, Padre Salvi, Juanito"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang ginagawa ni Padre Camorra habang naglalakad?",
+      "Answers": [
+        "Bumibili ng tau-tauhan",
+        "Nanlilibak sa mga prayle",
+        "Aliw na aliw sa mga dalagang dumaraan at kunwaring nadadapa",
+        "Pinipigil si Ben-Zayb sa kanyang biro"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang sinabi ni Padre Salvi tungkol sa isang dalaga?",
+      "Answers": [
+        "Siya’y masyadong maarte",
+        "May pambihirang ganda ngunit sayang at may nobyong estudyanteng kinalinisan niya",
+        "Isa siyang magandang modelo para sa larawang kahoy",
+        "Magiging madre sana kung wala lang nobyo"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang napansin nila sa mga tau-tauhang kahoy na binebenta?",
+      "Answers": [
+        "Mga diyos-diyosan ng mga Indio",
+        "Marami ang kahawig ng mga prayle",
+        "Mga santo na gawa sa garing",
+        "Mga hayop na yari sa kahoy"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang sinabi ni Ben-Zayb tungkol sa isang pigura?",
+      "Answers": [
+        "Kamukha ni Padre Salvi",
+        "Kamukha ni Padre Camorra",
+        "Kamukha ni Don Custodio",
+        "Kamukha ni Kapitan Heneral"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang naging paksa ng usapan nang makita nila ang pigurang kahawig ni Simoun?",
+      "Answers": [
+        "Ang yaman ni Simoun",
+        "Na kuripot daw si Simoun at umiwas sa palabas ni Mr. Leeds",
+        "Na siya ay kilalang kaibigan ng Heneral",
+        "Na siya ang may-ari ng tindahan ng tau-tauhan"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang paniniwala ni Ben-Zayb tungkol sa palabas ni Mr. Leeds?",
+      "Answers": [
+        "Totoong mahika ito",
+        "Galing sa relihiyong banyaga",
+        "Iluusyon lamang gamit ang salamin at daya",
+        "Lihim na pinapagana ni Simoun"
+      ],
+      "CorrectAnswers": 2
+    }
+  ]
 }
