@@ -8,7 +8,7 @@
         "Nagtapos ang mga estudyante",
         "Naganap ang kasal ni Paulita"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang sinasabi ng unang ulat ng extrang lalaki tungkol sa ninakaw ng mga tulisan?",
@@ -18,7 +18,7 @@
         "Wala silang ninakaw",
         "Nasunog ang bahay"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Paano inilarawan ni Ben-Zayb ang kanyang balita bago niya makita ang sugatang Padre Camorra?",
@@ -48,7 +48,7 @@
         "Kabesang Tales",
         "Padre Camorra"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang nangyari sa mga tulisan pagkatapos nilang makita na walang putok ng kanyon?",
@@ -58,7 +58,7 @@
         "Nawala sila sa Maynila",
         "Pinatay sila ng mga kawal"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Kanino dumalaw si Ben-Zayb sa hapon, at ano ang kanyang natagpuan?",
@@ -68,7 +68,7 @@
         "Kay Kapitan Heneral; nag-uusap tungkol sa bayan",
         "Kay Isagani; naglalakad sa lansangan"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     }
   ]
 }
