@@ -1,3 +1,74 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "Question": "Ano ang laro na nilalaro ng Kapitan Heneral kasama ang mga pari at si Simoun?",
+      "Answers": [
+        "Panguingue",
+        "Sungka",
+        "Tresilyo",
+        "Majong"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang sinabi ni Simoun na maaaring itaya ng mga pari sa laro?",
+      "Answers": [
+        "Ginto at pilak",
+        "Pagkakawanggawa, panalangin, at kabaitan",
+        "Lupa at alahas",
+        "Katungkulan sa simbahan"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang layunin ni Simoun sa kanyang mapanuyang suhestiyon tungkol sa pagtaya ng mga “brilyante laban sa kabutihan”?",
+      "Answers": [
+        "Aliwin ang mga pari",
+        "Ilantad ang kasamaan at pagkukunwari ng mga makapangyarihan",
+        "Hikayatin silang bumili ng alahas",
+        "Makumbinsi ang Heneral na magpatapon ng mga rebelde"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang naging paksa ng usapan matapos ang paglalaro?",
+      "Answers": [
+        "Pagpapatayo ng paaralan sa Maynila",
+        "Pagtuturo ng wikang Kastila sa mga kabataan",
+        "Pag-aalsa laban sa mga Kastila",
+        "Pagbili ng alahas mula kay Simoun"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Sino sa mga tauhan ang pumanig para sa mga estudyanteng humihiling ng pagtuturo ng Kastila?",
+      "Answers": [
+        "Padre Sibyla",
+        "Padre Irene",
+        "Mataas na Kawani",
+        "Kapitan Basilio"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Anong dahilan ang sinabi ng Mataas na Kawani upang sang-ayunan ang kahilingan ng mga kabataan?",
+      "Answers": [
+        "Dahil makapangyarihan ang mga estudyante",
+        "Dahil hinihiling ng simbahan",
+        "Dahil makatwiran ito at maaaring bawiin kung kinakailangan",
+        "Dahil utos ito ng Heneral"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Paano ipinakita ng Kapitan Heneral ang kanyang “awa” sa dulo ng kabanata?",
+      "Answers": [
+        "Pinagbigyan niya si Kabesang Tales na makabawi sa kanyang lupa",
+        "Ipinag-utos niyang palayain si Tandang Selo",
+        "Binigyan niya ng espesyal na alahas si Tales",
+        "Pinapakiusapan niya si Basilio upang makiusap"
+      ],
+      "CorrectAnswers": 1
+    }
+  ]
 }
