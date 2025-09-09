@@ -8,7 +8,7 @@
         "Saynete ni Ben-Zayb",
         "Opera ni Padre Salvi"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Sino ang hindi nakabili ng tiket para sa pagtatanghal?",
@@ -18,7 +18,7 @@
         "Padre Salvi",
         "Simoun"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 2
     },
     {
       "Question": "Ano ang nangyari sa pila sa takilya bago mag-ikalawa ng gabi?",
@@ -28,7 +28,7 @@
         "Naubos ang mga tiket agad",
         "Nagkaroon ng sunog"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang damdamin ni Camaroncocido sa gulo sa teatro?",
@@ -38,7 +38,7 @@
         "Naging masaya siya",
         "Wala siyang pakialam"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang katayuan ni Camaroncocido?",
@@ -48,7 +48,7 @@
         "Anak ng prayle",
         "Anak ni Don Custodio"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Sino ang kausap ni Camaroncocido sa simula ng kabanata?",
@@ -58,7 +58,7 @@
         "Ben-Zayb",
         "Simoun"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang ipinahayag ni Camaroncocido tungkol sa dagsa ng mga tao?",
@@ -68,7 +68,7 @@
         "Kagagawan ng Don Custodio",
         "Kagagawan ng teatro"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     }
   ]
 }
