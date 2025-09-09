@@ -8,7 +8,7 @@
         "Paseo de Maria Cristina",
         "Kumbento ng Sta. Clara"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Sino ang nakasalubong ni Basilio habang naglakad papunta sa mga maysakit?",
@@ -18,7 +18,7 @@
         "Propesor",
         "Padre Irene"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 2
     },
     {
       "Question": "Ano ang sinabi ng propesor kay Basilio tungkol sa mga paskin?",
@@ -28,7 +28,7 @@
         "Sumali sa paghihimagsik",
         "Idagdag sa talaan ng klinika"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang ibig sabihin ng “paskin” sa konteksto ng kabanata?",
@@ -38,7 +38,7 @@
         "Isang pangkat ng estudyante",
         "Kasangkapang pang-agham"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang reaksyon ni Isagani sa mga paskin?",
@@ -48,7 +48,7 @@
         "Tinangkang sirain ang lahat ng paskin",
         "Nagalit at umalis sa lugar"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Saan tumungo si Basilio pagkatapos malaman ang tungkol sa paskin?",
@@ -58,7 +58,7 @@
         "Sa Paseo de Maria Cristina",
         "Sa unibersidad"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang ginagawa ng kabo sa bahay ni Macaraig?",
@@ -68,7 +68,7 @@
         "Naglilinis ng karwahe",
         "Nagbibigay ng pagkain"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     }
   ]
 }
