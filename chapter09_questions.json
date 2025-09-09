@@ -1,3 +1,74 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "Question": "Ano ang naging reaksyon ng bayan sa sinapit ni Tandang Selo?",
+      "Answers": [
+        "Lahat ay nagluksa",
+        "May mga nahabag ngunit marami ang nagwalang-bahala",
+        "Lahat ay nagdiwang",
+        "Lahat ay tumulong"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang pahayag ni Hermana Penchang tungkol sa kasawiang sinapit ni Tandang Selo?",
+      "Answers": [
+        "Kapalaran lamang ito ng tao",
+        "Parusa raw ito ng Diyos dahil sa kasalanan",
+        "Resulta ng kasakiman ng mga prayle",
+        "Dala ng kahirapan sa bayan"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Sino ang tinukoy ni Hermana Penchang bilang makasalanang kamag-anak?",
+      "Answers": [
+        "Basilio",
+        "Juli",
+        "Kabesang Tales",
+        "Tata Selo"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang itinuro ni Hermana Penchang kay Juli?",
+      "Answers": [
+        "Pag-aalaga sa tahanan",
+        "Pagtitinda sa palengke",
+        "Wastong panalangin at pagbabasá ng Tandang Basio Macunat",
+        "Pag-aaral ng Kastila"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang ginawa ng mga prayle matapos manalo sa kaso laban kay Kabesang Tales?",
+      "Answers": [
+        "Pinatawad siya at ibinalik ang lupa",
+        "Ginamit ang pagkakabahagi niya upang ilipat ang pagmamay-ari ng lupa sa iba",
+        "Pinakawalan agad siya nang walang kapalit",
+        "Tinulungan siyang makabangon"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Paano nakalaya si Kabesang Tales?",
+      "Answers": [
+        "Dahil sa tulong ng pamahalaan",
+        "Sa pamamagitan ng kuwalta ni Juli",
+        "Dahil kinausap siya ng kanyang ama",
+        "Sa tulong ng mga guwardiya sibil"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang ipinakita ni Kabesang Tales nang makabalik siya at makita ang kanilang tahanan at lupain na pagmamay-ari na ng iba?",
+      "Answers": [
+        "Galit at paghihiganti",
+        "Paghingi ng tulong sa pamahalaan",
+        "Katahimikan at tila pagpipigil tula",
+        "Matinding pag-iyak at pagsigaw"
+      ],
+      "CorrectAnswers": 2
+    }
+  ]
 }
