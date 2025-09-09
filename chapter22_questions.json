@@ -8,7 +8,7 @@
         "Donya Victorina",
         "Sandoval"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang dumating bago nagsimula ang pagtatanghal?",
@@ -18,7 +18,7 @@
         "Heneral",
         "Simoun"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 2
     },
     {
       "Question": "Sino ang unang nagpakita sa pagtatanghal?",
@@ -28,7 +28,7 @@
         "Gertrude, ang Pransesang artista",
         "Paulita"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 2
     },
     {
       "Question": "Ano ang problema ni Juanito sa pagtatanghal?",
@@ -38,7 +38,7 @@
         "Nawawala ang tiket niya",
         "Hindi siya nakakita ng upuan"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang kahulugan ng “servantes” at “domestiques” ayon kay Juanito?",
@@ -48,7 +48,7 @@
         "Kaibigan at kamag-anak",
         "Maestro at estudyante"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang reaksyon ni Paulita nang lumabas ang 12 dalaga na pinangungunahan ni Serpolette?",
@@ -68,7 +68,7 @@
         "Nagkasakit siya",
         "Natuwa siya"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     }
   ]
 }
