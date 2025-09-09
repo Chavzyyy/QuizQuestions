@@ -1,3 +1,74 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "Question": "Bakit masama ang loob ni Placido Penitente habang naglalakad sa Escolta?",
+      "Answers": [
+        "Dahil natalo siya sa pagsusugal",
+        "Dahil iniwan siya ng kasintahan",
+        "Dahil nais na niyang tumigil sa pag-aaral at magtrabaho ngunit hindi pinayagan ng ina",
+        "Dahil pinagtawanan siya ng kanyang mga kaklase"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang bansag ng mga taga-Tanauan kay Placido dahil sa kanyang katalinuhan?",
+      "Answers": [
+        "Mapusok",
+        "Uli-uli",
+        "Pilibustero",
+        "Pusakal"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Sino ang nakasabay ni Placido sa tulay ng Espanya?",
+      "Answers": [
+        "Isagani",
+        "Basilio",
+        "Juanito Pelaez",
+        "Macaraig"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang sinabi ni Juanito Pelaez tungkol kay Basilio?",
+      "Answers": [
+        "Siya ay isang estudyanteng tamad at mahina sa klase",
+        "Siya ay ulol dahil may kasintahang mahirap, hindi marunong ng Kastila, at naging alila",
+        "Siya ang paborito ng mga prayle kaya’t hindi pinapagalitan",
+        "Siya ang pinakamayamang mag-aaral sa kanilang unibersidad"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang isinusuulong nina Macaraig at iba pang estudyante sa unibersidad?",
+      "Answers": [
+        "Libreng matrikula para sa mahihirap",
+        "Pagbawal sa diskriminasyon laban sa mga Indio",
+        "Pagpapatayo ng Academia de Castellano",
+        "Pagtatayo ng sariling paaralan sa Tanauan"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Bakit nagdesisyong pumasok si Placido sa klase kahit huli na siya?",
+      "Answers": [
+        "Dahil napilitan siya ng kanyang kaklase",
+        "Dahil wala siyang ibang magagawa",
+        "Dahil gusto niyang makilala ng propesor na maaaring magdulot ng pagpasa",
+        "Dahil inutos ng rektor ng paaralan"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang reaksyon ng propesor nang makita si Placido pumasok nang pakaladkad ang sapatos?",
+      "Answers": [
+        "Hindi siya pinansin",
+        "Tiningnan siya na tila nagsasabing may kaparusahan siyang naghihintay",
+        "Pinuri siya sa kanyang tapang",
+        "Pinaupo siya agad sa unahan"
+      ],
+      "CorrectAnswers": 1
+    }
+  ]
 }
