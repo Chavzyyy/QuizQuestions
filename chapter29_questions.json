@@ -8,7 +8,7 @@
         "Padre Irene",
         "Isagani"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 2
     },
     {
       "Question": "Saan iniwan ni Kapitan Tiago ang malaking bahagi ng kanyang ari-arian?",
@@ -18,7 +18,7 @@
         "Sa Sta. Clara, sa Papa, sa arsobispo, at sa mga korporasyon ng mga prayle",
         "Sa mga kaibigan at kapitbahay"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 2
     },
     {
       "Question": "Bakit pinawalang-bisa ang dalawampu’t limang piso na para kay Basilio?",
@@ -28,7 +28,7 @@
         "Dahil sa masamang asal ng binata sa mga huling araw",
         "Ginamit na ni Kapitan Tiago sa iba"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 2
     },
     {
       "Question": "Ano ang sinasabi ng iba tungkol sa kaluluwa ni Kapitan Tiago?",
@@ -38,7 +38,7 @@
         "Hindi na naligtas",
         "Naging espiritu sa bahay ng yumaong Kapitan"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Paano inilalarawan ang anyo ni Kapitan Tiago sa kanyang pagkamatay?",
@@ -48,7 +48,7 @@
         "Nakatayo at hawak ang baston",
         "Naka-prak, nakaumbok ang pisngi sa pagnganga, hawak ang kuwako at manok na panabong"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 3
     },
     {
       "Question": "Ilan ang prayle na nanguna sa exequias ni Kapitan Tiago?",
@@ -58,7 +58,7 @@
         "Tatlo",
         "Apat"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 2
     },
     {
       "Question": "Ano ang ginawa ni Padre Irene sa seremonya ng exequias na ikinainis ng kapitbahay?",
@@ -68,7 +68,7 @@
         "Nagbigay ng sermon",
         "Nagbasa ng huling habilin"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     }
   ]
 }
