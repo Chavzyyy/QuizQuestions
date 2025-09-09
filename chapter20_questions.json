@@ -8,7 +8,7 @@
         "Isang prayle",
         "Isang mang-aawit"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Paano nakatulong ang asawa ni Don Custodio sa kanyang tagumpay?",
@@ -18,7 +18,7 @@
         "Mula sa mayamang angkan ang kanyang asawa, kaya siya ay naging matagumpay sa negosyo at gobyerno",
         "Siya ay nagturo sa kanya ng Kastila"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 2
     },
     {
       "Question": "Bakit nagpunta si Don Custodio sa Madrid?",
@@ -28,7 +28,7 @@
         "Upang mamasyal",
         "Upang makipagnegosyo"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang karanasan ni Don Custodio sa Madrid?",
@@ -38,7 +38,7 @@
         "Naging gobernador siya",
         "Nakapagtayo siya ng negosyo"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang dahilan ng mababang kalagayan ni Don Custodio sa Madrid?",
@@ -48,7 +48,7 @@
         "Kakulangan sa koneksyon",
         "Kakulangan sa karisma"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang ipinapakita ni Don Custodio sa kanyang pagbabalik sa Maynila?",
@@ -58,7 +58,7 @@
         "Ang kanyang kasipagan sa pagtuturo",
         "Ang kanyang koleksyon ng sining"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang ibig sabihin ng pahayag ni Don Custodio: “Ako’y lumalagay na parang ama at tagapagtanggol, ngunit kinakailangang ang bawat bagay ay malagay sa tamang lugar”?",
@@ -68,7 +68,7 @@
         "Siya ay tamad",
         "Siya ay mahilig sa laro"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     }
   ]
 }
