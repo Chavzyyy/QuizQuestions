@@ -1,72 +1,72 @@
 {
   "questions": [
     {
-      "Question": "Sino ang tumulong kay Simoun nang siya’y sugatan at may dalang maleta?",
+      "Question": "Sino ang kilala sa buong Luzon bilang isang kilabot dahil sa kanyang biglaang pagsalakay?",
       "Answers": [
-        "Basilio",
-        "Padre Florentino",
+        "Simoun",
+        "Kabesang Tales",
         "Tandang Selo",
-        "Isagani"
+        "Carolino"
       ],
       "CorrectAnswers": 1
     },
     {
-      "Question": "Ano ang huling hiling ni Simoun kay Padre Florentino?",
+      "Question": "Anong mga lugar ang nilusob ni Kabesang Tales?",
       "Answers": [
-        "Makita si Paulita bago mamatay",
-        "Hindi mahuli nang buhay",
-        "Ipamana ang kayamanan kay Basilio",
-        "Magtago sa isang lihim na lugar"
+        "Tiyani at Sta. Mesa",
+        "Batangas, Cavite, Tayabas, Pangasinan, Timog ng Albay, Hilagang Cagayan",
+        "Maynila lamang",
+        "Sta. Cruz at Escolta"
       ],
       "CorrectAnswers": 1
     },
     {
-      "Question": "Ano ang laman ng maleta na dala ni Simoun?",
+      "Question": "Ano ang ginawa ng guwardiya sibil na si Mautang sa mga bihag?",
       "Answers": [
-        "Mga lihim na dokumento",
-        "Sandata",
-        "Kayamanan na ipinon upang maghiganti",
-        "Lihim ng simbahan"
+        "Pinakawalan sila agad",
+        "Pinatigil sandali para sa isang pangangailangan",
+        "Pinapalo at pinilit na lumakad",
+        "Tinulungan silang makatakas"
       ],
       "CorrectAnswers": 2
     },
     {
-      "Question": "Paano tumugon si Padre Florentino sa kayamanan ni Simoun?",
+      "Question": "Sino ang nakapagpahinto sa guwardiya at nagbigay ng matinding takot kay Carolino?",
       "Answers": [
-        "Pinanatili ito para sa simbahan",
-        "Ibinalik sa pamilya ni Simoun",
-        "Inilubog sa dagat upang hindi na makapinsala",
-        "Ipinamahagi sa mga mahihirap"
-      ],
-      "CorrectAnswers": 2
-    },
-    {
-      "Question": "Ano ang aral na ibinigay ni Padre Florentino tungkol sa kayamanan ni Simoun?",
-      "Answers": [
-        "Ang yaman ay sukatan ng tagumpay",
-        "Ang tunay na yaman ay nasa kabutihang-loob at pananampalataya sa Diyos",
-        "Ang yaman ay kailangan para sa paghihiganti",
-        "Ang kayamanan ay dapat ipon para sa pamilya"
+        "Isang estudyante",
+        "Tandang Selo",
+        "Kabesang Tales",
+        "Simoun"
       ],
       "CorrectAnswers": 1
     },
     {
-      "Question": "Ano ang ipinapakita ng pagtatapon ng maleta sa dagat?",
+      "Question": "Ano ang reaksyon ni Carolino nang makita ang kanyang ingkong si Tandang Selo?",
       "Answers": [
-        "Ang pagtatapos ng paghihiganti ni Simoun",
-        "Ang pagtatagumpay ng kayamanan",
-        "Ang muling paglabas ni Simoun sa lipunan",
-        "Ang pagbabalik ng kayamanan sa may-ari"
+        "Tumakas siya agad",
+        "Napaisip at nagdalamhati",
+        "Hinabol niya ang kalaban",
+        "Walang ginawa"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
-      "Question": "Ano ang hiling ni Padre Florentino para sa mga kabataan ng bayan?",
+      "Question": "Ano ang nangyari sa guwardiya sibil pagkatapos makita si Tandang Selo?",
       "Answers": [
-        "Maging mas mayaman kaysa sa kanilang mga magulang",
-        "Magtaglay ng lakas at tapang, at magdala ng tunay na pagbabago",
-        "Matutunan ang lihim ng kayamanan",
-        "Magtayo ng negosyo sa bayan"
+        "Nagpatuloy sa pag-atake",
+        "Umatras at naglaho",
+        "Hinuli ang lahat ng bihag",
+        "Sumali kay Kabesang Tales"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang ipinahihiwatig sa pamamagitan ng mga mata ni Tandang Selo kay Carolino?",
+      "Answers": [
+        "Ang panganib sa digmaan",
+        "Isang buhay na puno ng pagpapakasakit",
+        "Ang lihim ni Simoun",
+        "Ang kayamanan ng mga Kastila"
       ],
       "CorrectAnswers": 1
     }
