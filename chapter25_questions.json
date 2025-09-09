@@ -8,7 +8,7 @@
         "Paseo de Maria Cristina",
         "Kumbento ng Sta. Clara"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ilan ang nagdiwang ng desisyong pabor sa pagtuturo ng wikang Kastila?",
@@ -18,7 +18,7 @@
         "Dalawampu",
         "Labing-anim"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang tinawag ni Macaraig sa sopas na inihain?",
@@ -48,7 +48,7 @@
         "Sandoval",
         "Macaraig"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang nakita ng mga estudyante sa pintuan habang nagtalumpati si Pecson?",
@@ -68,7 +68,7 @@
         "Sinabi niyang “Alipin ng Vice-Rector sa Amo ng Heneral!”",
         "Hindi siya nakapansin"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 2
     }
   ]
 }
