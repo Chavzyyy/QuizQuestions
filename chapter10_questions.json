@@ -1,3 +1,74 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "Question": "Bakit buong-pusong tinanggap ni Kabesang Tales si Simoun sa kanilang bahay kahit naghihikahos sila?",
+      "Answers": [
+        "Dahil nais niyang makakuha ng alahas",
+        "Dahil bahagi ito ng kaugalian ng Pilipino na pagtanggap sa panauhin",
+        "Dahil pinilit siya ni Simoun",
+        "Dahil may utang siya kay Simoun"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang agnos na nabanggit sa kwento?",
+      "Answers": [
+        "Isang singsing na minana ni Basilio",
+        "Hikaw na pagmamay-ari ni Sinang",
+        "Rosaryo na may brilyante at esmeralda na kay Maria Clara",
+        "Kuwintas ni Cleopatra"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang ginawa ng mga mamamayan nang dumating si Simoun na may dalang alahas?",
+      "Answers": [
+        "Lahat ay tumanggi bumili",
+        "Nag-away-away kung sino ang bibili",
+        "Isa-isang pumili at bumili ng alahas",
+        "Walang naka-appreciate sa mga alahas"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang dahilan kung bakit hindi bumili si Kabesang Tales ng alahas kay Simoun?",
+      "Answers": [
+        "Wala siyang interes sa alahas",
+        "Iniwan siya ng kanyang anak",
+        "Naipagbili na ng kanyang anak ang kanilang mga alahas at wala nang natira",
+        "Pinagbawalan siya ng pamahalaan"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang nangyari kay Kabesang Tales matapos makita ang prayle at ang bagong may-ari ng kanyang lupa?",
+      "Answers": [
+        "Nakipag-usap nang maayos sa kanila",
+        "Nagsampa ng kaso sa pamahalaan",
+        "Nawala at kinuha ang rebolber ni Simoun upang sumama sa mga tulisan",
+        "Umalis ng bayan at nagtungo sa Maynila"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang balitang kumalat kinabukasan matapos mawala si Kabesang Tales?",
+      "Answers": [
+        "Nasunog ang bahay ng mga prayle",
+        "Tumakas si Kabesang Tales patungong bundok",
+        "Patay ang prayle, ang bagong may-ari ng lupa, at ang asawa nito",
+        "Nabawi muli ni Kabesang Tales ang kanyang lupain"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang ipinahihiwatig ng naging desisyon ni Kabesang Tales na sumama sa mga tulisan?",
+      "Answers": [
+        "Ang pagbabalik sa buhay-mangangahoy",
+        "Ang pagtanggap sa kapalaran ng walang laban",
+        "Ang radikal na tugon ng mga api sa kawalang-katarungan",
+        "Ang pagkilala ng takot sa pamahalaan"
+      ],
+      "CorrectAnswers": 2
+    }
+  ]
 }
