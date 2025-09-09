@@ -1,3 +1,74 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "Question": "Ano ang inaasahan ni Juli mula sa Birhen nang siya’y nagdasal?",
+      "Answers": [
+        "Na makakahanap siya ng bagong tahanan",
+        "Na makakapagpadala ng 250 piso bilang tulong",
+        "Na makukumbinsi ang kanyang amang agad",
+        "Na siya’y makaiiwas sa mga prayle"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang ginawa ni Juli bago siya umalis ng bahay?",
+      "Answers": [
+        "Niyakag ang kanyang mga kamag-anak",
+        "Kinuhang ang kanyang tampipi at humalik sa kamay ng kanyang ingkong",
+        "Sumulat ng liham para kay Kabesang Tales",
+        "Nagtago sa silong upang umiwas"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang bilin ni Juli tungkol sa kanyang ama?",
+      "Answers": [
+        "Sabihin na siya’y pumunta sa simbahan",
+        "Sabihin na siya’y nakapasok na sa kolehiyo",
+        "Sabihin na siya’y magbabalik kinabukasan",
+        "Sabihin na siya’y sumama sa mga kaibigan"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang ipinapakita ng pagbati ni Juli ng paghalik sa kamay ng ingkong?",
+      "Answers": [
+        "Paggalang sa mga prayle",
+        "Pagpapakita ng tradisyonal na paggalang sa nakatatanda",
+        "Paghingi ng kapatawaran",
+        "Pagpapakita ng kasiyahan"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang ginawa ni Tandang Selo matapos umalis si Juli?",
+      "Answers": [
+        "Lumabas upang magsimba",
+        "Pinaonood ang mga taong nakabihis na papuntang simbahan at namamasko",
+        "Umalis at naghanap ng trabaho",
+        "Natulog sa kanyang silid"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang napansin ng mga kamag-anak nang dumalaw kay Tandang Selo?",
+      "Answers": [
+        "Siya’y mahimbing na natutulog",
+        "Siya’y nagbabasa ng Bibliya",
+        "Siya’y hindi na makapagsalita at puro impit na ungol lamang ang lumalabas",
+        "Siya’y masayang umaawit ng awit-pasko"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Anong kaugalian ng mga Pilipino ang naipapakita sa tagpong ito kung saan binibisita ng mga kamag-anak si Tandang Selo?",
+      "Answers": [
+        "Pagiging maingay sa pista",
+        "Pagpapahalaga sa yaman",
+        "Pagpapahalaga sa pamilya at pagdalaw sa mga mahal sa buhay",
+        "Pagiging mahigpit sa pera"
+      ],
+      "CorrectAnswers": 2
+    }
+  ]
 }
