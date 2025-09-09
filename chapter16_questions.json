@@ -1,3 +1,74 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "Question": "Ano ang dahilan ng pag-aalala ni Quiroga nang makausap si Simoun?",
+      "Answers": [
+        "Nalugi siya sa pagsusugal",
+        "Nag-away sila ng isang prayle",
+        "Marami siyang pinautang na hindi pa bayad at nagbigay ng alahas sa isang babae ng opisyal",
+        "Nawalan siya ng tindahan"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano ang ginawa ni Simoun sa siyam na libong pisong utang ni Quiroga?",
+      "Answers": [
+        "Pinatawad ito",
+        "Ginawang pito na lamang",
+        "Pinaresahan siya ng dagdag-interes",
+        "Pinabayaran agad"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang kapalit na hinihingi ni Simoun mula kay Quiroga?",
+      "Answers": [
+        "Libreng pagkain sa kanyang tindahan",
+        "Paglalagay ng mga kahon ng armas sa tindahan",
+        "Pagbibigay ng dagdag na puhunan",
+        "Pagpapautang ng mas malaking halaga"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang ipinangako ni Simoun tungkol sa mga baril?",
+      "Answers": [
+        "Ibebenta lamang sa mga prayle",
+        "Ipamamahagi sa iba’t ibang bahay at gagamitin para kumita sa pagpapalaya ng mga mahuhuli",
+        "Itatago lamang sa tindahan ni Quiroga habambuhay",
+        "Ibibigay sa hukbo ng Kastila"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang naging reaksyon ni Quiroga nang una niyang marinig ang plano?",
+      "Answers": [
+        "Natatakot at namutla",
+        "Nagdiwang at pumayag agad",
+        "Umiiyak at tumakbo",
+        "Tumanggi nang walang pag-aalinlangan"
+      ],
+      "CorrectAnswers": 1
+    },
+    {
+      "Question": "Ano ang banta ni Simoun kung hindi papayag si Quiroga?",
+      "Answers": [
+        "Isusumbong siya sa mga prayle",
+        "Ipapasara ang kanyang negosyo",
+        "Kailangang bayaran ni Quiroga ang buong utang",
+        "Ipapatapon siya sa Mindoro"
+      ],
+      "CorrectAnswers": 2
+    },
+    {
+      "Question": "Ano naman ang tinalakay ng ibang grupo sa kabilang bahagi ng bahay?",
+      "Answers": [
+        "Pag-aalsa ng mga estudyante",
+        "Plano ng komisyon sa India para sa paggawa ng sapatos ng sundalo",
+        "Pagpapalawak ng kolehiyo sa Maynila",
+        "Pag-iimbestiga sa mga tulisan"
+      ],
+      "CorrectAnswers": 1
+    }
+  ]
 }
