@@ -8,7 +8,7 @@
         "Isagani",
         "Juanito"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang sinabi ni Padre Irene tungkol kay Basilio?",
@@ -18,7 +18,7 @@
         "Isa siyang guro",
         "Isa siyang prayle"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang dahilan ng Kapitan Heneral kung bakit hindi niya pinapalaya si Basilio?",
@@ -38,7 +38,7 @@
         "Maganda ang ginagawa ng Kapitan Heneral",
         "Walang dapat ipag-alala ang mga tao"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang ipinapakita ng Mataas na Kawani sa kanyang paninindigan?",
@@ -48,7 +48,7 @@
         "Nais niyang maging Heneral",
         "Nais niyang tumakas sa Espanya"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     },
     {
       "Question": "Ano ang sinabi ng Mataas na Kawani sa alilang Indio habang nasa karwahe?",
@@ -68,7 +68,7 @@
         "Tumakas kasama si Basilio",
         "Nagplano ng himagsik"
       ],
-      "CorrectAnswers": 0
+      "CorrectAnswers": 1
     }
   ]
 }
